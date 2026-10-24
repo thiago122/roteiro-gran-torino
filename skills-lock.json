@@ -1,0 +1,41 @@
+{
+  "version": 1,
+  "skills": {
+    "sw-character-conflict": {
+      "source": "jtydhr88/screenwriting-skills",
+      "sourceType": "github",
+      "skillPath": "plugins/screenwriting/skills/sw-character-conflict/SKILL.md",
+      "computedHash": "2f624e9f94db5cd838be1a294e5ac2b804275aa25098e86372e14b70907c0d2b"
+    },
+    "sw-dialogue": {
+      "source": "jtydhr88/screenwriting-skills",
+      "sourceType": "github",
+      "skillPath": "plugins/screenwriting/skills/sw-dialogue/SKILL.md",
+      "computedHash": "6ab765e2a5ba562bbfd2c790be5e0926b68a266370f0b82c9dc0be1341f07181"
+    },
+    "sw-premise-theme": {
+      "source": "jtydhr88/screenwriting-skills",
+      "sourceType": "github",
+      "skillPath": "plugins/screenwriting/skills/sw-premise-theme/SKILL.md",
+      "computedHash": "d8a2152018053c9f319f68cf0cd9ca8728d985be9024feb1f92a6497c933881b"
+    },
+    "sw-scene-craft": {
+      "source": "jtydhr88/screenwriting-skills",
+      "sourceType": "github",
+      "skillPath": "plugins/screenwriting/skills/sw-scene-craft/SKILL.md",
+      "computedHash": "4a1bf8616de77ccfd77f58db91601f84ea3fba61e355b4d52d0e8a9ae97e59ca"
+    },
+    "sw-story-structure": {
+      "source": "jtydhr88/screenwriting-skills",
+      "sourceType": "github",
+      "skillPath": "plugins/screenwriting/skills/sw-story-structure/SKILL.md",
+      "computedHash": "f4db81059f2144a7eee6e6bd42408ce1baa1757b1fbf430f070dc46b5a7c2df2"
+    },
+    "sw-workflow": {
+      "source": "jtydhr88/screenwriting-skills",
+      "sourceType": "github",
+      "skillPath": "plugins/screenwriting/skills/sw-workflow/SKILL.md",
+      "computedHash": "d976a03e88ba19ab12949d4e9d5d123bee4444b85820d009955d8b577a99e9ca"
+    }
+  }
+}
