@@ -266,6 +266,7 @@ Nota sobre o material: vários depoimentos mostram que o ódio vinha de contato 
 
 | Data | Mudança | Motivo |
 |---|---|---|
+| 2026-10-24 | Criado `quadro-de-cartoes.md` com 43 cartões | Pedido do autor; etapa 4 (quadro de cartões) em rascunho |
 | 2026-10-24 | Vilãozinho já participa dos treinos do treinador desde o começo, mas ainda não está regenerado; a mudança real vem no final | Decisão do autor; mais verdadeiro, e o treinador planta enquanto os vizinhos colhem |
 | 2026-10-24 | Vilãozinho: pai preso e mãe drogada, e depois a célula e a escolinha de futebol do treinador Wiliam; o menino ferido liga a história ao perdão bíblico | Decisão do autor; muda a Base (mãe presidiária, pai assassinado) e dá um apelo social ao vilãozinho |
 | 2026-10-24 | Acrescentados mais padrões no `beat-sheet.md`: idades, pet (não morre), abertura, motivo da irmã, fala do tema, ameaça no Ato 2, antagonista e imagem final | Pedido do autor por mais padrões; todos a confirmar |
@@ -295,7 +296,8 @@ Nota sobre o material: vários depoimentos mostram que o ódio vinha de contato 
 - `premissa-e-rascunho.md`: explicações e rascunhos da premissa
 - `motivos-odio-crente.md`: pesquisa com depoimentos sobre por que se odiava crente
 - `beat-sheet.md`: rascunho do mapa de 50 páginas (15 beats)
+- `quadro-de-cartoes.md`: 43 cartões, uma ficha por cena, com valor (+/-) e conflito (><)
 
 ## Próximo passo
 
-Conferir o `beat-sheet.md` e confirmar os dois padrões (o filho morreu junto; o "tudo perdido" é o menino ferido e afastado). Depois, montar o quadro de cartões (uma ficha por cena).
+Conferir o `quadro-de-cartoes.md` e o `beat-sheet.md` e confirmar os padrões (o filho morreu junto; o "tudo perdido" é o menino ferido e afastado). Depois, dar nomes aos personagens e escrever o tratamento ou o roteiro cena a cena.
