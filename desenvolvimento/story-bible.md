@@ -9,7 +9,7 @@
 
 ## Etapa atual
 
-Etapa 1 (premissa e tema), em andamento. Falta decidir a crença e a origem da protagonista, o ponto de "tudo perdido" e a conversão.
+Etapa 1 (premissa e tema) quase fechada; etapa 2 (estrutura) em rascunho no arquivo `beat-sheet.md`. Falta confirmar a crença e a origem da protagonista (o filho morreu junto?) e o ponto de "tudo perdido". O beat sheet usa padrões para esses dois pontos, marcados como "(padrão)".
 
 ## Decisões já tomadas
 
@@ -209,7 +209,7 @@ Nota sobre o material: vários depoimentos mostram que o ódio vinha de contato 
 | Irmã | Também acaba de chegar, mais velha, vive com a imagem da família e do evangelho | Na mudança, organizando, ou com o celular, incomodada com a mudança. Já mostra a inteligência (uma frase rápida) | Que é inteligente, que cuida da imagem da família e que tem ciúme do irmão |
 | Pai | Instala câmeras na casa por segurança. É desconfiado e rígido, mas ama a família | Instalando as câmeras, ou liderando um momento de oração na mudança | Que é fiel e protetor, e que o controle é sua falha |
 | Mãe | Tenta fazer amizade com a vizinhança e conhecer a vizinha | Leva algo para a vizinha, ou conversa com outras pessoas do bairro | Que é paciente e sábia, e que fala pouco mas observa |
-| Vilãozinho | Mora com a avó, filho de presidiária e de pai assassinado. Comanda os meninos da rua | Jogando bola na rua, mandando no grupo | Que é maldoso por ferida, não por natureza. A avó o cria |
+| Vilãozinho | Mora com a avó. Pai preso e mãe drogada (versão nova do autor; a Base dizia mãe presidiária e pai assassinado). Comanda os meninos da rua. Já treina na escolinha de futebol do treinador Wiliam, da igreja, mas ainda não está regenerado: disciplinado no campo, cruel na rua. A mudança real vem no final, quando recebe graça (ver `beat-sheet.md`) | Jogando bola na rua, mandando no grupo | Que é maldoso por ferida, não por natureza. A avó o cria |
 | Avó do vilãozinho | Amiga da rabugenta. É a ligação que mais tarde faz a rabugenta defender o menino | Aparece com a rabugenta antes do confronto da bola, ou é citada por ela | Que a rabugenta tem pelo menos uma amiga, e que a avó é quem cuida do neto |
 
 **O que mostrar antes da música (ideia):**
@@ -266,6 +266,10 @@ Nota sobre o material: vários depoimentos mostram que o ódio vinha de contato 
 
 | Data | Mudança | Motivo |
 |---|---|---|
+| 2026-10-24 | Vilãozinho já participa dos treinos do treinador desde o começo, mas ainda não está regenerado; a mudança real vem no final | Decisão do autor; mais verdadeiro, e o treinador planta enquanto os vizinhos colhem |
+| 2026-10-24 | Vilãozinho: pai preso e mãe drogada, e depois a célula e a escolinha de futebol do treinador Wiliam; o menino ferido liga a história ao perdão bíblico | Decisão do autor; muda a Base (mãe presidiária, pai assassinado) e dá um apelo social ao vilãozinho |
+| 2026-10-24 | Acrescentados mais padrões no `beat-sheet.md`: idades, pet (não morre), abertura, motivo da irmã, fala do tema, ameaça no Ato 2, antagonista e imagem final | Pedido do autor por mais padrões; todos a confirmar |
+| 2026-10-24 | Criado `beat-sheet.md` (rascunho); Ato 1 estendido até a página 16 e padrões usados para o filho e o "tudo perdido" | Continuação do roteiro; o Ato 1 da Base não cabe em 12 páginas |
 | 2026-10-24 | Protagonista definida como a rabugenta | Tem o arco mais forte, o do menino é passivo |
 | 2026-10-24 | Final definido: ela passa a crer em Jesus | Decisão do autor |
 | 2026-10-24 | Formato definido: 40 a 60 minutos | Decisão do autor |
@@ -290,7 +294,8 @@ Nota sobre o material: vários depoimentos mostram que o ódio vinha de contato 
 - `avaliação 1.md`: avaliação da Base com as skills
 - `premissa-e-rascunho.md`: explicações e rascunhos da premissa
 - `motivos-odio-crente.md`: pesquisa com depoimentos sobre por que se odiava crente
+- `beat-sheet.md`: rascunho do mapa de 50 páginas (15 beats)
 
 ## Próximo passo
 
-Responder aos pontos em aberto 1 e 2 para fechar a etapa 1 e começar o beat sheet.
+Conferir o `beat-sheet.md` e confirmar os dois padrões (o filho morreu junto; o "tudo perdido" é o menino ferido e afastado). Depois, montar o quadro de cartões (uma ficha por cena).
