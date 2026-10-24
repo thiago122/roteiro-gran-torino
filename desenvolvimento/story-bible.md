@@ -196,6 +196,54 @@ Nota sobre o material: vários depoimentos mostram que o ódio vinha de contato 
 - Não resolver a pergunta cedo. A resposta pesa mais depois que a rabugenta já viu o almoço e a célula.
 - O filme não precisa dizer que a evangelização está certa; só precisa mostrar por que eles fazem.
 
+## Quem são antes da história (rascunho, a confirmar)
+
+**Por que isso importa:** num filme de 50 minutos, o Ato 1 tem cerca de 12 páginas. O tema entra na página 3 e o evento que muda tudo (a música alta) na página 6. Os personagens precisam estar apresentados antes disso, ou os primeiros conflitos não pesam. Cada um aparece fazendo algo que mostra quem é, e o que eles têm de falha e de bondade (ver "Como retratar os crentes") já fica visível.
+
+**Nomes:** os personagens ainda não têm nome (rabugenta, menino, irmã, pai, mãe, vilãozinho, avó). Dar nomes é parte desta etapa.
+
+| Personagem | Situação antes da música | Como aparece pela primeira vez (ideia) | O que o público precisa saber |
+|---|---|---|---|
+| Rabugenta | Mora sozinha em casa de muro branco e jardim cuidados. Tem uma rotina fechada e silêncio. Objetos do marido que ela não mexe (chaves, cadeira) | Cuidando do jardim ou do muro, em silêncio, sozinha. A rotina é quebrada pela música | Que ela quer ser deixada em paz, que o muro e o jardim importam muito, e que ela não gosta de crente (sem explicar por quê) |
+| Menino | Acaba de chegar a um bairro novo, longe dos amigos. É o filho favorito, e sente o peso de ser bom | Na mudança, ajudando com caixas, ou sozinho olhando a rua. Quer fazer amigos | Que é inocente, quer pertencer, e que a família espera dele comportamento exemplar |
+| Irmã | Também acaba de chegar, mais velha, vive com a imagem da família e do evangelho | Na mudança, organizando, ou com o celular, incomodada com a mudança. Já mostra a inteligência (uma frase rápida) | Que é inteligente, que cuida da imagem da família e que tem ciúme do irmão |
+| Pai | Instala câmeras na casa por segurança. É desconfiado e rígido, mas ama a família | Instalando as câmeras, ou liderando um momento de oração na mudança | Que é fiel e protetor, e que o controle é sua falha |
+| Mãe | Tenta fazer amizade com a vizinhança e conhecer a vizinha | Leva algo para a vizinha, ou conversa com outras pessoas do bairro | Que é paciente e sábia, e que fala pouco mas observa |
+| Vilãozinho | Mora com a avó, filho de presidiária e de pai assassinado. Comanda os meninos da rua | Jogando bola na rua, mandando no grupo | Que é maldoso por ferida, não por natureza. A avó o cria |
+| Avó do vilãozinho | Amiga da rabugenta. É a ligação que mais tarde faz a rabugenta defender o menino | Aparece com a rabugenta antes do confronto da bola, ou é citada por ela | Que a rabugenta tem pelo menos uma amiga, e que a avó é quem cuida do neto |
+
+**O que mostrar antes da música (ideia):**
+- **Abertura (página 1):** a rua quieta, a casa dela. A rotina da rabugenta (jardim, muro, silêncio). É o oposto do final, em que a música é aceita.
+- **Páginas 2 a 5:** a chegada da família, o caminhão de mudança. Cada um aparece com uma ação que mostra o que quer e o que o incomoda.
+- **Página 3 (tema):** uma fala que anuncia o tema. Por exemplo, alguém diz à rabugenta ou à família algo sobre ser deixado em paz ou sobre receber o outro.
+- **Página 6:** a música gospel alta, e a rabugenta pedindo que Deus faça baixarem.
+
+**Alternativa do autor: fazer o público se apegar a eles, como em Rocky (o primeiro):**
+- Em Rocky, o filme gasta cerca de meia hora com o personagem antes do evento que muda tudo. O público se apega a ele pelas pequenas coisas: a bondade, a solidão, o que ele quer e não tem. Depois, quando o desafio chega, todo mundo torce.
+- Num filme de 50 minutos não dá para esperar meia hora. Duas formas de adaptar:
+  1. **Apego rápido, música na página 6.** Cada personagem tem um momento curto de bondade ou vulnerabilidade logo na primeira aparição. O público se apega depressa e a história já corre.
+  2. **Apego mais lento, música por volta da página 10 a 12.** Cabe uma sequência de abertura mais longa só com a rotina da rabugenta e a chegada da família. É mais parecido com Rocky, mas come o tempo do Ato 2.
+  3. **Pena (ideia do autor):** em vez de o público gostar do personagem, ele sente pena. É um caminho mais curto e serve bem aos mais frágeis.
+     - **Rabugenta:** a viúva sozinha, a casa que parou no tempo. O público entende a dureza como dor.
+     - **Menino:** o inocente que quer pertencer e é usado pelos outros meninos.
+     - **Vilãozinho:** o filho de presidiária e de pai assassinado.
+     - **Cuidado:** pena vista de cima afasta (o público fica superior ao personagem). Funciona melhor com respeito: o personagem mantém dignidade e age, e a pena vem do que ele perdeu. Em Gran Torino e em Rocky, o público sente pena, mas também admira.
+     - Pena sozinha não segura o protagonista. A rabugenta ainda precisa querer algo e agir (ver "Protagonista").
+  - Os caminhos podem se combinar: pena pela rabugenta, apego rápido pela família.
+- **Momentos de apego (ideias, para a abertura):**
+  - Rabugenta: cuida de um animal ou de uma planta, fala com um objeto do marido, ou faz uma gentileza escondida (deixa comida para um vizinho sem aparecer). Ela é dura com as pessoas e terna com algo.
+  - Menino: ajuda a carregar algo pesado, ou olha para a rua querendo amigos. Quer pertencer.
+  - Irmã: protege o irmão de um jeito pequeno, mesmo reclamando dele.
+  - Pai: brinca com os filhos, ou ora com ternura. Ama a família e por isso controla.
+  - Mãe: faz um gesto de cuidado com o vizinho sem esperar retorno.
+  - Vilãozinho: é terno com a avó, o que mostra a ferida dele.
+- **Princípio de Rocky que serve aqui:** o personagem quer algo, está meio perdido e é bom com alguém mais fraco. O apego vem da vulnerabilidade, não da simpatia.
+
+**Perguntas em aberto:**
+1. A rabugenta aparece sozinha na abertura, ou já com a avó ou outro vizinho?
+2. Qual é a idade aproximada de cada um? Isso afeta o tom (menino e irmã são crianças, adolescentes?).
+3. Nomes dos personagens.
+
 ## Páginas-alvo (50 minutos)
 
 | Beat | Página |
@@ -222,6 +270,8 @@ Nota sobre o material: vários depoimentos mostram que o ódio vinha de contato 
 | 2026-10-24 | Final definido: ela passa a crer em Jesus | Decisão do autor |
 | 2026-10-24 | Formato definido: 40 a 60 minutos | Decisão do autor |
 | 2026-10-24 | Motivo do ódio a crente: o autor sabe, o público descobre aos poucos | Evitar exposição e manter a curiosidade no Ato 2 |
+| 2026-10-24 | Alternativa de apego estilo Rocky: o público se apega aos personagens antes do evento que muda tudo | Ideia do autor; duas formas de adaptar a 50 minutos, a escolher |
+| 2026-10-24 | Acrescentada a seção "Quem são antes da história": apresentar os personagens antes da música | Observação do autor: falta contextualizar os personagens antes das coisas acontecerem |
 | 2026-10-24 | Ideia de um pet para ajudar na cena da irmã com a rabugenta | Ideia do autor; quebra o gelo e mostra o lado dela que não é rabugento |
 | 2026-10-24 | A irmã, ao vigiar o irmão, conversa com a rabugenta, que a acha inteligente e começa a perder a imagem de crente ignorante | Decisão do autor; uma pessoa concreta desmente o estereótipo |
 | 2026-10-24 | Alerta sobre o inferno visto como cuidado (livrar alguém de algo mortal), mesmo quando dito de forma agressiva | Decisão do autor; o erro é o jeito, não a preocupação |
