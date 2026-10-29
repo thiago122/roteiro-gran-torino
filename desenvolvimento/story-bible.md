@@ -9,20 +9,24 @@
 
 ## Etapa atual
 
-Etapa 1 (premissa e tema) quase fechada; etapa 2 (estrutura) em rascunho no arquivo `beat-sheet.md`. Falta confirmar a crença e a origem da protagonista (o filho morreu junto?) e o ponto de "tudo perdido". O beat sheet usa padrões para esses dois pontos, marcados como "(padrão)".
+Etapa 1 (premissa e tema) quase fechada; etapa 2 (estrutura) em rascunho no arquivo `beat-sheet.md`. A crença errada está decidida ("Eu só valho pelo que faço pelos outros"), assim como a causa da rabugice (ela abriu mão da vida para cuidar do pai) e a relação dela com Deus (indiferença). O "tudo perdido" está definido (ela não sabe receber o aniversário e se retira), a confirmar. O ovo de Páscoa foi movido para a noite escura.
 
 ## Decisões já tomadas
 
 - **Protagonista:** a rabugenta (a vizinha). O menino é o catalisador.
 - **Final:** a rabugenta passa a crer em Jesus.
 - **Formato:** 40 a 60 minutos.
+- **Idade da rabugenta:** 40 anos.
+- **Abertura:** ela grita "pelo amor de Deus, baixem essa música!" e bate a porta ou a janela. É expressão feita, sem fé, não oração. O final inverte a frase (ela pede que aumentem, ou canta junto), agora dita de verdade.
+- **Causa da rabugice:** abriu mão da própria vida para cuidar do pai, que morreu depois que a juventude passou. Sem filhos, sem relação com a igreja.
+- **O pai tinha fé:** sim. Ela não o ressente (ama e sente culpa, no máximo). A relação dela com Deus: nunca ligou.
 
 ## Rascunhos (a confirmar)
 
-- **Crença errada da rabugenta:** "Deus cobra caro de quem se entrega a ele. Fé é o que me tirou o marido (e o filho)." Ela quer ser deixada em paz.
-- **Cena de origem:** a semana em que o marido se converteu e morreu no acidente. Ela talvez tenha se convertido junto, ficou sozinha e saiu da igreja culpando Deus. O filho morreu junto? (a decidir)
-- **Premissa:** o ressentimento contra Deus endurece quem sofre, e a graça recebida sem merecer é o que o desfaz.
-- **Logline:** Uma viúva que odeia crentes e desafia Deus a calar a música dos novos vizinhos acaba dando a um menino que a vandalizou a graça que ela mesma nunca recebeu, e é essa graça que abre seu caminho de volta à fé.
+- **Crença errada da rabugenta (decisão do autor, confirmada em 2026-10-29):** "Eu só valho pelo que faço pelos outros." Ela cuidou do pai a vida inteira e não sabe existir sem ser útil. Como nunca ligou para Deus, não há ressentimento contra ele: há indiferença. Ela quer ser deixada em paz.
+- **Cena de origem (decisão do autor):** o velório do pai. A igreja dele lota a casa, elogia a fé dele e a agradece ("você foi uma filha tão dedicada"). Depois todos vão embora, a casa fica em silêncio e ninguém precisa mais dela. Aos 40 anos ela descobre que o elogio foi a única coisa que recebeu.
+- **Premissa (a rever):** quem só se acha digno pelo que faz pelos outros endurece, e a graça recebida sem merecer é o que o desfaz.
+- **Logline:** Uma mulher que abriu mão da própria vida para cuidar do pai e odeia crentes e desafia Deus a calar a música dos novos vizinhos acaba dando a um menino que a vandalizou a graça que ela mesma nunca recebeu, e é essa graça que abre seu caminho até a fé.
 - **Final:** o filme abre com ela pedindo que Deus faça baixarem a música; o final pode inverter isso (ela pede que aumentem, ou canta junto). A conversão precisa vir de uma ação dela, não de um milagre nem de uma fala do menino.
 
 ## Por que a rabugenta não gosta de crente
@@ -31,60 +35,71 @@ Etapa 1 (premissa e tema) quase fechada; etapa 2 (estrutura) em rascunho no arqu
 
 - Saber o motivo dá direção às cenas dela. Sem ele, ela vira só "chata".
 - Explicar cedo é exposição. A pergunta "por quê?" é o que segura o Ato 2.
-- Revelar pouco a pouco, por ação ou objeto, não por fala: uma foto virada para baixo, as chaves do carro do marido, uma cadeira que ninguém usa, um dia do ano em que ela some.
+- Revelar pouco a pouco, por ação ou objeto, não por fala: uma foto virada para baixo, o quarto do pai intacto, uma cadeira que ninguém usa, um dia do ano em que ela some.
 - A explicação completa pode vir perto do meio, ou no "tudo perdido", quando ela conta ao menino.
-- Não fechar demais. Se o filme disser só "o marido morreu logo depois de se converter", ela vira uma pessoa com uma ferida única. É mais humano ela mesma não saber bem a razão e dar explicações diferentes em momentos diferentes.
+- Não fechar demais. Se o filme disser só "ela cuidou do pai e perdeu a juventude", ela vira uma pessoa com uma ferida única. É mais humano ela mesma não saber bem a razão e dar explicações diferentes em momentos diferentes.
 
 **Material de pesquisa:** `motivos-odio-crente.md`, com depoimentos de ex-descrentes. Os motivos que aparecem lá e que servem à rabugenta (a escolher e combinar, não usar todos):
 
 | Motivo | Como aparece nos depoimentos | Uso possível |
 |---|---|---|
-| Evangelização agressiva | "Você vai pro inferno" dito no lugar de amor | Alguém da igreja disse isso ao marido ou a ela no velório |
-| Dinheiro e escândalos de pastores | Culto na TV pedindo oferta, pastor "suga" a esposa | Ela viu o marido dar dinheiro à igreja logo antes de morrer |
+| Evangelização agressiva | "Você vai pro inferno" dito no lugar de amor | Alguém da igreja disse isso a ela ou ao pai doente |
+| Dinheiro e escândalos de pastores | Culto na TV pedindo oferta, pastor "suga" a esposa | Ela viu o pai doente pressionado a dar dinheiro à igreja |
 | Invasão de privacidade | Folhetos e visitas em casa | Bate com as câmeras do pai e com a música alta |
 | Barulho do vizinho | Vizinho cristão tocando instrumento em casa | Já é o gancho do filme (a música gospel) |
 | Generalização | "Todos são iguais" por causa de visitas à mãe, roupa, estética | Ela julga a família nova antes de conhecê-la |
 | Hipocrisia | Comportamento de quem se diz cristão afasta a pessoa | O pai exigindo humilhação pública, cobra "crente" |
 | Orgulho e autoproteção | O ódio como forma de negar a angústia | Ela se esconde atrás do ódio para não sentir a perda |
 
-### Motivos escolhidos (a confirmar pelo autor)
+### Causa da rabugice e motivo escolhido (a confirmar pelo autor)
 
-1. **Perdeu o marido antes de ele morrer.** A conversão o mudou, e ela sentiu que ele passou a pertencer à igreja e não a ela. Soma com a nota da Base: ele se converteu, mas manteve as velhas amizades e morreu em um acidente de carro depois de beber. A igreja, para ela, tirou o marido e não o protegeu.
-2. **Abandono e resposta vazia depois da perda.** Os irmãos da igreja sumiram depois do velório, e quem apareceu disse "foi vontade de Deus" ou "ele ainda não era firme". Ela perguntou "por quê?" e só ouviu "tenha fé".
+**Causa (decisão do autor):** ela abriu mão da própria vida (casar, ter uma vida pessoal) para cuidar do pai. Quando a juventude passou, o pai morreu e ela ficou aos 40 anos sem a melhor parte da vida. A causa não tem relação com a igreja e ela não tem filhos.
 
-**Por que esses dois:**
-- Os dois são sobre perda e sobre o que a igreja fez ou deixou de fazer. Fica uma ferida só, em vez de uma lista de queixas.
-- Os dois dão à família nova um contraste a pagar: eles aparecem, convidam para o almoço, ficam. A igreja dela deu frase pronta, a família dá presença. Isso é graça contra lei, o tema do filme.
-- Os dois são o oposto do que a família nova faz: a igreja dela sumiu e deu resposta pronta, a família aparece e fica. O contraste acontece em duas situações (ver "Duas situações de contraste" abaixo).
-- Não dependem de política, dinheiro ou estética, que deixariam a rabugenta presa ao estereótipo.
-- Casam com o silêncio dela na vingança (linha 48 da Base): ela sabe o que é ser abandonada por quem diz seguir Deus e, por isso, não denuncia o menino.
+**Motivo do ódio a crente:** inveja de uma família inteira, cheia de gente e barulho, fazendo exatamente o que ela não pôde. O ódio a crente é consequência da ferida, não a ferida.
+
+**O que isso exige:**
+- Ela ama o pai e não o ressente (decisão do autor). A dor é a vida que ficou para trás, não raiva dele.
+- Evitar autopiedade: ela nunca diz que se sacrificou. O público vê isso nos objetos (o quarto do pai intacto, remédios, cadeira de rodas, um vestido nunca usado, um convite de casamento a que ela não foi).
+- O barulho da família nova invade o espaço que ela manteve em silêncio por anos para o pai.
+
+**Removido por decisão do autor:**
+- A leitura do "irmão mais velho" da parábola do filho pródigo (ficou, obedeceu e não ganhou nada, contra o menino que errou e foi acolhido).
+- A crença errada "Deus me cobrou tudo e não devolveu nada" / "quem se doa fica sem nada". (Substituída pela crença confirmada acima.)
+- Os motivos antigos (perdeu o marido para a igreja; abandono e resposta vazia depois do velório).
 
 **Duas situações de contraste (a família nova mostra o oposto):**
 
-1. **O convite para o almoço** (Base, linha 98). Ela resiste, mas vai. É a primeira vez que alguém "da igreja" a recebe sem querer nada dela. Ela percebe que não são pessoas "anormais".
-2. **O convite para a célula** (reunião pequena de crentes em uma casa). Aqui a mudança de visão é maior: ela passa a ver que as reuniões de crentes não se resumem à igreja institucional, com púlpito, pastor e oferta. Na célula há gente sentada na sala, comida, conversa, oração um pelo outro, e ninguém lhe cobra nada. Ela vê que a fé vive nas pessoas e não só na instituição que a abandonou.
+1. **O convite para o almoço** (Base, linha 98). Ela resiste, mas vai. É a primeira vez que alguém "da igreja" a recebe sem querer nada dela. Ela percebe que não são pessoas "anormais" e vê de perto a vida em família que não teve.
+2. **O convite para a célula** (reunião pequena de crentes em uma casa). Ela passa a ver que as reuniões de crentes não se resumem à igreja institucional, com púlpito, pastor e oferta. Na célula há gente sentada na sala, comida, conversa e oração um pelo outro, e ninguém lhe cobra nada.
 
-**O que cada convite muda nela:**
-
-| Situação | O que ela vê | Contra o quê |
-|---|---|---|
-| Almoço | Crente é gente comum, que recebe em casa | Estereótipo de "anormais" |
-| Célula | A reunião de crentes pode ser acolhedora e informal, e não é só igreja | Motivo 2: a igreja que sumiu e deu resposta pronta |
-
-Ordem sugerida (a confirmar): almoço na primeira metade do Ato 2, célula depois do meio, antes do "tudo perdido". Assim a célula já existe como lugar seguro quando a perda chegar. Cuidado para a célula não virar cena de pregação: mostrar o encontro, não o sermão, e ela só observa e escuta.
+Ordem sugerida (a confirmar): almoço na primeira metade do Ato 2, célula depois do meio, antes do "tudo perdido". Cuidado para a célula não virar cena de pregação: mostrar o encontro, não o sermão, e ela só observa e escuta.
 
 **Como revelar (ver regra acima):**
-- Primeiro sinal, no Ato 1: objeto (as chaves do carro do marido, a cadeira vazia) e a frase "ele ainda estaria aqui".
-- Meio (página 25): ela conta ao menino que os irmãos sumiram depois do velório.
-- Tudo perdido (página 34): a pergunta "por quê?" volta, e dessa vez alguém fica sem responder com frase pronta.
+- Primeiro sinal, no Ato 1: objeto (o quarto do pai, a cadeira vazia).
+- Meio (página 25): ela conta ao menino o que deixou de viver para cuidar do pai.
+- Noite escura (página 38): a pergunta "por quê?" volta, e dessa vez alguém fica sem responder com frase pronta.
 
-Nota sobre o material: vários depoimentos mostram que o ódio vinha de contato ruim com crentes, e a conversão veio por contato diferente. Isso casa com o arco: ela começa a mudar quando recebe do menino e da família uma convivência diferente da que conheceu.
+Nota sobre o material: os depoimentos mostram o ódio vindo de contato ruim com crentes e a conversão vindo de contato diferente. Isso ainda serve ao arco: ela começa a mudar quando recebe do menino e da família uma convivência diferente da que imaginava.
+
+## Tudo perdido (decisão do autor, 2026-10-29)
+
+**Princípio:** o "tudo perdido" nasce da crença dela ("só valho pelo que faço pelos outros"), não de uma agressão externa. Ela só sabe pagar, e não sabe receber.
+
+**Sequência (páginas 33 a 36):**
+1. O menino termina o muro. A dívida acabou.
+2. Ela tenta "pagar" o que acha que deve, com dinheiro. A mãe recusa (não o pai, para não repetir o pedido de perdão dele no final).
+3. A família lhe dá algo de graça: o aniversário. A avó contou a data, e eles chegam com um bolo, sem aviso e sem pedir nada. É pequeno e pessoal, e ela não tem como pagar de volta.
+4. Ela não explode e não expulsa ninguém: se retira, fecha o portão e fica em silêncio. A perda é culpa da crença.
+
+**Depois (noite escura):** a mãe (ou a irmã) chega e fica sem frase pronta. No domingo de Páscoa, ela leva o ovo ao menino (ela sabe dar, não receber), e ele conta o cordeiro. O vilãozinho e os meninos ferem o menino, e ele perdoa. O vilãozinho continua como ameaça e é o gatilho do Ato 3.
+
+**Removido:** o menino ferido e afastado pelo pai como "tudo perdido". O ferimento passa para a noite escura.
 
 ## A convivência e o ovo de Páscoa
 
 **Ideia do autor:**
 - Aos poucos a rabugenta convive com o menino, e a irmã vai aparecendo aos poucos nessa convivência.
-- Perto da Páscoa, ela dá um ovo de Páscoa ao menino.
+- No domingo de Páscoa, na noite escura (depois de se retirar), ela dá um ovo de Páscoa ao menino.
 - Ele diz que não acredita na Páscoa "assim". Para ele a Páscoa é Deus livrando o povo israelita do Egito, e aponta para Jesus como o cordeiro que foi morto como pagamento pelos nossos pecados.
 - Mesmo assim ele aceita o chocolate do ovo, porque entende que é só um doce. Ele separa o presente (o doce) do significado (a Páscoa), e por isso aceita sem constrangimento e sem recusar o gesto dela.
 
@@ -93,7 +108,7 @@ Nota sobre o material: vários depoimentos mostram que o ódio vinha de contato 
 - O gesto dela é o primeiro presente sem cobrança. É o oposto da humilhação do portão, em que ela recebeu o menino como devedor.
 - O menino que errou explica a graça à mulher que ele vandalizou.
 - O pagamento ecoa o castigo dele: ele pagou com trabalho no quintal e na pintura do muro, e agora ouve falar de alguém que pagou por todos. É a lei do pai contra a graça, tema do filme.
-- A Páscoa funciona como relógio do Ato 2: o convívio cresce até a data.
+- A Páscoa é a data da noite escura, não o relógio do Ato 2. O ovo vem depois do "tudo perdido": é o único gesto que ela sabe fazer (dar, não receber), e a explicação do cordeiro cai quando a pergunta "por quê?" já voltou.
 
 **Cuidados (a confirmar):**
 - A cena não é a conversão. Ela escuta e resiste, talvez com uma pergunta ("e quem pagou por ele?"), e a mudança dela vem depois, por uma ação.
@@ -116,12 +131,12 @@ Nota sobre o material: vários depoimentos mostram que o ódio vinha de contato 
 **Um pet na cena (ideia do autor, a confirmar):** algum animal de estimação pode ajudar na cena da conversa entre a irmã e a rabugenta.
 - **Quebra o gelo.** Dá às duas algo para fazer com as mãos e um assunto que não é religião. A irmã está lá a contragosto, e o animal tira a obrigação de conversar.
 - **Mostra o lado dela que não é rabugento.** Ela trata o bicho com cuidado, o que reforça que a rabugenta não é simples.
-- **Pode ser ligado ao marido** (era dele, ou ele gostava), o que alimenta a revelação aos poucos.
+- **Pode ser ligado ao pai** (era dele, ou ele gostava), o que alimenta a revelação aos poucos.
 - **Dá tarefa ao menino.** Cuidar ou passear o animal pode estar entre as tarefas na casa dela.
 - **Cuidado:** o clichê é o cachorro que "derrete" a rabugenta. Evitar que o bicho faça o trabalho emocional sozinho. Ele ajuda a cena, e a mudança vem das pessoas.
 - **A decidir:** que animal, de quem era, e se ele aparece só nessa cena ou volta depois (por exemplo, no "tudo perdido").
 
-**Posição na estrutura (sugestão, a confirmar):** o ovo cai depois da célula e antes do "tudo perdido", como o ponto mais alto de proximidade antes da perda. A conversão fica para o Ato 3.
+**Posição na estrutura (decisão do autor, 2026-10-29):** o ovo cai na noite escura, depois do "tudo perdido" (páginas 36 a 41). A conversão fica para o Ato 3.
 
 ## Como retratar os crentes
 
@@ -130,7 +145,7 @@ Nota sobre o material: vários depoimentos mostram que o ódio vinha de contato 
 **O que isso exige:**
 - **Nem caricatura nem santos.** O estereótipo que a rabugenta carrega (hipócrita, interesseiro, fanático) e o oposto (família perfeita) falham. A família erra de verdade e, depois, volta atrás de verdade.
 - **A falha e a volta aparecem em cada um.** O que define o personagem é o que ele faz depois de errar.
-- **Contraste com a igreja que a abandonou.** A falha deles é a de gente comum que se corrige. A da igreja do marido foi sumir e dar frase pronta (motivo 2).
+- **Contraste com o estereótipo que ela carrega.** A falha deles é a de gente comum que se corrige, não a de hipócrita.
 
 **Falha e volta de cada personagem (rascunho, a confirmar):**
 
@@ -173,7 +188,7 @@ Nota sobre o material: vários depoimentos mostram que o ódio vinha de contato 
 
 **O que isso resolve:**
 - **A pergunta que a rabugenta já faz.** Ela odeia crente por insistir. Os depoimentos da pesquisa mostram o mesmo: a abordagem agressiva ("você vai pro inferno") foi o motivo central do ódio de várias pessoas. O filme dá o outro lado, o que está por trás da insistência.
-- **Evangelização boa e má lado a lado.** A má cobra, ameaça e sai de cena (a igreja que sumiu depois do velório). A boa nasce de gratidão: quem recebeu quer dar. A família mostra a boa, e o pai erra quando a mistura com castigo.
+- **Evangelização boa e má lado a lado.** A má cobra, ameaça e sai de cena. A boa nasce de gratidão: quem recebeu quer dar. A família mostra a boa, e o pai erra quando a mistura com castigo.
 - **Coerência com o princípio de retrato.** Os crentes são falhos, mas o impulso é de dar algo bom, não de vencer ou controlar.
 
 **Como mostrar (rascunho, a confirmar):**
@@ -189,7 +204,7 @@ Nota sobre o material: vários depoimentos mostram que o ódio vinha de contato 
 - Comparação de dia a dia (para a fala de um personagem, em uma frase): quem vê alguém atravessando uma ponte quebrada grita, mesmo que o grito soe rude.
 - As duas coisas são verdadeiras no filme: a mágoa da rabugenta com a maneira agressiva é legítima, e a intenção de quem alertava era de cuidado. A falha está no jeito, não na preocupação.
 - **Ecoa o pai.** O pai errou no jeito (a humilhação no portão) sem errar na preocupação com o filho. É o mesmo padrão: amor dito de forma dura. A mãe, que corrige o jeito sem tirar a verdade, mostra a medida.
-- **Contraste com a igreja que a abandonou.** Ela alertou sobre o inferno ou deu frase pronta, e depois sumiu. Quem avisa de verdade fica depois, e a família nova fica.
+- **Contraste com o alerta de passagem.** Quem avisa de verdade fica depois, e a família nova fica.
 
 **Cuidados:**
 - Evitar o discurso. Se alguém explica "por que evangelizamos" em um parágrafo, é exposição. Preferir uma frase, um gesto ou um exemplo.
@@ -204,7 +219,7 @@ Nota sobre o material: vários depoimentos mostram que o ódio vinha de contato 
 
 | Personagem | Situação antes da música | Como aparece pela primeira vez (ideia) | O que o público precisa saber |
 |---|---|---|---|
-| Rabugenta | Mora sozinha em casa de muro branco e jardim cuidados. Tem uma rotina fechada e silêncio. Objetos do marido que ela não mexe (chaves, cadeira) | Cuidando do jardim ou do muro, em silêncio, sozinha. A rotina é quebrada pela música | Que ela quer ser deixada em paz, que o muro e o jardim importam muito, e que ela não gosta de crente (sem explicar por quê) |
+| Rabugenta | Mora sozinha em casa de muro branco e jardim cuidados. Tem uma rotina fechada e silêncio. Objetos do pai que ela não mexe (quarto, cadeira) | Cuidando do jardim ou do muro, em silêncio, sozinha. A rotina é quebrada pela música | Que ela quer ser deixada em paz, que o muro e o jardim importam muito, e que ela não gosta de crente (sem explicar por quê) |
 | Menino | Acaba de chegar a um bairro novo, longe dos amigos. É o filho favorito, e sente o peso de ser bom | Na mudança, ajudando com caixas, ou sozinho olhando a rua. Quer fazer amigos | Que é inocente, quer pertencer, e que a família espera dele comportamento exemplar |
 | Irmã | Também acaba de chegar, mais velha, vive com a imagem da família e do evangelho | Na mudança, organizando, ou com o celular, incomodada com a mudança. Já mostra a inteligência (uma frase rápida) | Que é inteligente, que cuida da imagem da família e que tem ciúme do irmão |
 | Pai | Instala câmeras na casa por segurança. É desconfiado e rígido, mas ama a família | Instalando as câmeras, ou liderando um momento de oração na mudança | Que é fiel e protetor, e que o controle é sua falha |
@@ -224,14 +239,14 @@ Nota sobre o material: vários depoimentos mostram que o ódio vinha de contato 
   1. **Apego rápido, música na página 6.** Cada personagem tem um momento curto de bondade ou vulnerabilidade logo na primeira aparição. O público se apega depressa e a história já corre.
   2. **Apego mais lento, música por volta da página 10 a 12.** Cabe uma sequência de abertura mais longa só com a rotina da rabugenta e a chegada da família. É mais parecido com Rocky, mas come o tempo do Ato 2.
   3. **Pena (ideia do autor):** em vez de o público gostar do personagem, ele sente pena. É um caminho mais curto e serve bem aos mais frágeis.
-     - **Rabugenta:** a viúva sozinha, a casa que parou no tempo. O público entende a dureza como dor.
+     - **Rabugenta:** a mulher sozinha, a casa que parou no tempo. O público entende a dureza como dor.
      - **Menino:** o inocente que quer pertencer e é usado pelos outros meninos.
      - **Vilãozinho:** o filho de presidiária e de pai assassinado.
      - **Cuidado:** pena vista de cima afasta (o público fica superior ao personagem). Funciona melhor com respeito: o personagem mantém dignidade e age, e a pena vem do que ele perdeu. Em Gran Torino e em Rocky, o público sente pena, mas também admira.
      - Pena sozinha não segura o protagonista. A rabugenta ainda precisa querer algo e agir (ver "Protagonista").
   - Os caminhos podem se combinar: pena pela rabugenta, apego rápido pela família.
 - **Momentos de apego (ideias, para a abertura):**
-  - Rabugenta: cuida de um animal ou de uma planta, fala com um objeto do marido, ou faz uma gentileza escondida (deixa comida para um vizinho sem aparecer). Ela é dura com as pessoas e terna com algo.
+  - Rabugenta: cuida de um animal ou de uma planta, fala com um objeto do pai, ou faz uma gentileza escondida (deixa comida para um vizinho sem aparecer). Ela é dura com as pessoas e terna com algo.
   - Menino: ajuda a carregar algo pesado, ou olha para a rua querendo amigos. Quer pertencer.
   - Irmã: protege o irmão de um jeito pequeno, mesmo reclamando dele.
   - Pai: brinca com os filhos, ou ora com ternura. Ama a família e por isso controla.
@@ -257,8 +272,8 @@ Nota sobre o material: vários depoimentos mostram que o ódio vinha de contato 
 
 ## Pontos em aberto
 
-1. Crença errada e cena de origem da rabugenta: confirmar. O filho morreu junto ou não?
-2. O que leva a rabugenta à fé? O ponto de "tudo perdido" pode ser o menino ser tirado dela, o menino se ferir por causa dos outros meninos ou a família ir embora.
+1. Abertura decidida (ver Decisões já tomadas). Falta: como o final inverte a frase.
+2. O que leva a rabugenta à fé? Resolvido: o "tudo perdido" vem da crença dela (ver "Tudo perdido"), e a conversão vem da graça que ela dá ao vilãozinho.
 3. Antagonismo no Ato 2: retaliação dos meninos, a avó do vilãozinho e o vilãozinho como espelho.
 4. Arco do pai (as câmeras e a invasão de privacidade como ponto fraco) e motivo real da irmã.
 
@@ -266,6 +281,11 @@ Nota sobre o material: vários depoimentos mostram que o ódio vinha de contato 
 
 | Data | Mudança | Motivo |
 |---|---|---|
+| 2026-10-26 | Causa da rabugice: abriu mão da vida para cuidar do pai, que morreu (quem morre é o pai). Mantida a inveja da família cheia de gente como motivo do ódio a crente. Removidos o espelho do filho pródigo e a crença "Deus cobrou tudo e não devolveu nada" | Decisão do autor; substitui marido, filho e igreja que sumiu |
+| 2026-10-26 | O pai tinha fé; ela não o ressente; a relação dela com Deus é de indiferença (nunca ligou). Propostas de crença errada e cena de origem registradas | Decisão do autor; o ressentimento contra Deus sai da premissa, a revisar |
+| 2026-10-26 | Crença errada ("só valho pelo que faço pelos outros") e cena de origem (o velório do pai) confirmadas | Decisão do autor |
+| 2026-10-26 | Abertura: "pelo amor de Deus, baixem essa música!" dita sem fé, e bate a porta ou a janela | Decisão do autor; ela é indiferente a Deus, então a frase é expressão feita |
+| 2026-10-26 | Rabugenta tem 40 anos | Decisão do autor; muda o tom (jovem, não idosa) |
 | 2026-10-24 | Criado `quadro-de-cartoes.md` com 43 cartões | Pedido do autor; etapa 4 (quadro de cartões) em rascunho |
 | 2026-10-24 | Vilãozinho já participa dos treinos do treinador desde o começo, mas ainda não está regenerado; a mudança real vem no final | Decisão do autor; mais verdadeiro, e o treinador planta enquanto os vizinhos colhem |
 | 2026-10-24 | Vilãozinho: pai preso e mãe drogada, e depois a célula e a escolinha de futebol do treinador Wiliam; o menino ferido liga a história ao perdão bíblico | Decisão do autor; muda a Base (mãe presidiária, pai assassinado) e dá um apelo social ao vilãozinho |
@@ -288,6 +308,8 @@ Nota sobre o material: vários depoimentos mostram que o ódio vinha de contato 
 | 2026-10-24 | Registrada a cena do ovo de Páscoa (menino aponta a Páscoa como o cordeiro que pagou pelos pecados) e a irmã que aparece aos poucos | Ideia do autor |
 | 2026-10-24 | Registrado o porquê dos dois motivos e acrescentado o convite para a célula, além do almoço | A célula mostra a ela uma reunião de crentes diferente da igreja que a abandonou |
 | 2026-10-24 | Dois motivos escolhidos: perdeu o marido para a igreja, e abandono com resposta vazia depois da perda | Uma ferida só, contrasta com a presença da família nova (graça contra lei) |
+| 2026-10-29 | Crença errada confirmada: "Eu só valho pelo que faço pelos outros" | Decisão do autor; sem a segunda parte |
+| 2026-10-29 | Novo "tudo perdido": ela tenta pagar, a família recusa e lhe dá o aniversário, e ela se retira sozinha. O ovo de Páscoa foi movido para a noite escura | Decisão do autor; o padrão do menino ferido e afastado foi descartado |
 
 ## Arquivos
 
@@ -296,8 +318,8 @@ Nota sobre o material: vários depoimentos mostram que o ódio vinha de contato 
 - `premissa-e-rascunho.md`: explicações e rascunhos da premissa
 - `motivos-odio-crente.md`: pesquisa com depoimentos sobre por que se odiava crente
 - `beat-sheet.md`: rascunho do mapa de 50 páginas (15 beats)
-- `quadro-de-cartoes.md`: 43 cartões, uma ficha por cena, com valor (+/-) e conflito (><)
+- `quadro-de-cartoes.md`: 44 cartões, uma ficha por cena, com valor (+/-) e conflito (><)
 
 ## Próximo passo
 
-Conferir o `quadro-de-cartoes.md` e o `beat-sheet.md` e confirmar os padrões (o filho morreu junto; o "tudo perdido" é o menino ferido e afastado). Depois, dar nomes aos personagens e escrever o tratamento ou o roteiro cena a cena.
+Conferir o `quadro-de-cartoes.md` e o `beat-sheet.md` com o novo "tudo perdido". Depois, dar nomes aos personagens e escrever o tratamento ou o roteiro cena a cena.
