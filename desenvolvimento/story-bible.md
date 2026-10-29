@@ -91,7 +91,7 @@ Nota sobre o material: os depoimentos mostram o ódio vindo de contato ruim com 
 3. A família lhe dá algo de graça: o aniversário. A avó contou a data, e eles chegam com um bolo, sem aviso e sem pedir nada. É pequeno e pessoal, e ela não tem como pagar de volta.
 4. Ela não explode e não expulsa ninguém: se retira, fecha o portão e fica em silêncio. A perda é culpa da crença.
 
-**Depois (noite escura):** a mãe (ou a irmã) chega e fica sem frase pronta. No domingo de Páscoa, ela leva o ovo ao menino (ela sabe dar, não receber), e ele conta o cordeiro. O vilãozinho e os meninos ferem o menino, e ele perdoa. O vilãozinho continua como ameaça e é o gatilho do Ato 3.
+**Depois (noite escura):** a irmã chega e fica sem frase pronta. No domingo de Páscoa, ela leva o ovo ao menino (ela sabe dar, não receber), e ele conta o cordeiro. O vilãozinho e os meninos ferem o menino, e ele perdoa. O vilãozinho continua como ameaça e é o gatilho do Ato 3.
 
 **Removido:** o menino ferido e afastado pelo pai como "tudo perdido". O ferimento passa para a noite escura.
 
@@ -118,7 +118,20 @@ Nota sobre o material: os depoimentos mostram o ódio vindo de contato ruim com 
 
 **A irmã que aparece aos poucos:**
 - Na Base ela acusa o irmão de envergonhar a família e o evangelho (linha 90) e o chama de "filho favorito".
-- Se ela aparece aos poucos na convivência com a rabugenta, o arco dela é ir de acusadora a alguém que também baixa a guarda. Falta decidir o motivo real dela e quando ela vira aliada.
+- Se ela aparece aos poucos na convivência com a rabugenta, o arco dela é ir de acusadora a alguém que também baixa a guarda. O motivo real dela e o momento em que vira aliada estão decididos (ver abaixo).
+
+**O motivo real da irmã (decisão do autor, 2026-10-29):**
+- Ela ama a Deus e a ciência, e vê a ciência confirmando a Bíblia aos poucos.
+- Sabe, por ensinamento da mãe, que escândalos e maus testemunhos afastam as pessoas de Deus. É isso que está por trás da acusação: o irmão errou (sujou o muro) e isso pode afastar os vizinhos, a começar pela rabugenta.
+- A mãe ensinou o princípio com medida; a irmã, aos 15 anos, o aplica com rigidez, como se o erro fosse só dano. O que falta a ela é o resto da lição: o testemunho também é a graça que se dá a quem erra.
+- Não é ciúme nem inveja do "filho favorito". Essa leitura saiu.
+- Liga com a rabugenta de forma direta: a irmã conhece, por ensinamento, o mecanismo que afastou a rabugenta (o contato ruim com crentes), e vê isso acontecer à sua frente.
+- A inteligência dela aparece em cena (uma pergunta ou resposta rápida sobre ciência e fé, que a rabugenta não esperava), sem virar aula.
+- **Quando ela vira aliada (decisão do autor, 2026-10-29):** deixa de vigiar o irmão e passa a ajudar a rabugenta a encontrar um rumo, fiel ao que a família ensina. Não é conflito com a família. O custo é interno: abrir mão da rigidez e da pressa de julgar.
+  1. **Cartão 23 (página 24):** ouve a confissão do velório. No cartão 25, a mãe lhe diz "Então ajude".
+  2. **Cartão 34 (página 38), por enquanto:** na noite escura, chega à casa da rabugenta sem ser chamada, faz uma boa pergunta e fica, sem frase pronta.
+  3. **Cartão 43 (página 48):** acompanha a primeira oração da rabugenta, sem conduzir.
+- **Câmera do pai (decisão do autor):** A câmera do pai filma a rua, e foi ela que pegou o menino sujando o muro. Nenhuma câmera aponta para a casa da rabugenta.
 
 **A irmã e a imagem de "crente ignorante" (decisão do autor):**
 - A rabugenta vê os crentes como ignorantes.
@@ -153,7 +166,7 @@ Nota sobre o material: os depoimentos mostram o ódio vindo de contato ruim com 
 |---|---|---|
 | Pai | Desconfiança e controle (câmeras), raiva (quase bate), humilhação do filho em público | Desiste de bater, usa a Bíblia para confrontar o filho e não para esmagar. Depois da conversa com a mãe, pede desculpas ao filho pela maneira, mas mantém a correção |
 | Mãe | Cala quando a irmã acusa o irmão | Intervém para o filho não apanhar. Fala com sabedoria ao marido sobre a agressividade dele. Manda a irmã tomar conta do irmão enquanto ele faz as tarefas na casa da rabugenta (ver abaixo) |
-| Irmã | Acusa o irmão, pensa na imagem da família e do evangelho | Aos poucos baixa a guarda e se aproxima da rabugenta |
+| Irmã | Acusa o irmão por zelo com o testemunho da família (ensinamento da mãe), ama a Deus e a ciência | Aos poucos baixa a guarda e se aproxima da rabugenta |
 | Menino | Mentira, vandalismo, tenta apagar o vídeo | Reconhece o erro, pede desculpa, trabalha para reparar, aceita o castigo |
 | Família, em conjunto | Música alta, desconsiderar a vizinha | Convidam quem os trata mal para almoçar e para a célula |
 
@@ -221,7 +234,7 @@ Nota sobre o material: os depoimentos mostram o ódio vindo de contato ruim com 
 |---|---|---|---|
 | Rabugenta | Mora sozinha em casa de muro branco e jardim cuidados. Tem uma rotina fechada e silêncio. Objetos do pai que ela não mexe (quarto, cadeira) | Cuidando do jardim ou do muro, em silêncio, sozinha. A rotina é quebrada pela música | Que ela quer ser deixada em paz, que o muro e o jardim importam muito, e que ela não gosta de crente (sem explicar por quê) |
 | Menino | Acaba de chegar a um bairro novo, longe dos amigos. É o filho favorito, e sente o peso de ser bom | Na mudança, ajudando com caixas, ou sozinho olhando a rua. Quer fazer amigos | Que é inocente, quer pertencer, e que a família espera dele comportamento exemplar |
-| Irmã | Também acaba de chegar, mais velha, vive com a imagem da família e do evangelho | Na mudança, organizando, ou com o celular, incomodada com a mudança. Já mostra a inteligência (uma frase rápida) | Que é inteligente, que cuida da imagem da família e que tem ciúme do irmão |
+| Irmã | Também acaba de chegar, mais velha, vive com a imagem da família e do evangelho | Na mudança, organizando, ou com o celular, incomodada com a mudança. Já mostra a inteligência (uma frase rápida) | Que é inteligente, que cuida do testemunho da família e que ama a Deus e a ciência |
 | Pai | Instala câmeras na casa por segurança. É desconfiado e rígido, mas ama a família | Instalando as câmeras, ou liderando um momento de oração na mudança | Que é fiel e protetor, e que o controle é sua falha |
 | Mãe | Tenta fazer amizade com a vizinhança e conhecer a vizinha | Leva algo para a vizinha, ou conversa com outras pessoas do bairro | Que é paciente e sábia, e que fala pouco mas observa |
 | Vilãozinho | Mora com a avó. Pai preso e mãe drogada (versão nova do autor; a Base dizia mãe presidiária e pai assassinado). Comanda os meninos da rua. Já treina na escolinha de futebol do treinador Wiliam, da igreja, mas ainda não está regenerado: disciplinado no campo, cruel na rua. A mudança real vem no final, quando recebe graça (ver `beat-sheet.md`) | Jogando bola na rua, mandando no grupo | Que é maldoso por ferida, não por natureza. A avó o cria |
@@ -275,7 +288,7 @@ Nota sobre o material: os depoimentos mostram o ódio vindo de contato ruim com 
 1. Abertura decidida (ver Decisões já tomadas). Falta: como o final inverte a frase.
 2. O que leva a rabugenta à fé? Resolvido: o "tudo perdido" vem da crença dela (ver "Tudo perdido"), e a conversão vem da graça que ela dá ao vilãozinho.
 3. Antagonismo no Ato 2: retaliação dos meninos, a avó do vilãozinho e o vilãozinho como espelho.
-4. Arco do pai (as câmeras e a invasão de privacidade como ponto fraco) e motivo real da irmã.
+4. Arco do pai (as câmeras e a invasão de privacidade como ponto fraco) (o motivo e o momento de a irmã virar aliada estão decididos).
 
 ## Registro de mudanças
 
@@ -310,6 +323,9 @@ Nota sobre o material: os depoimentos mostram o ódio vindo de contato ruim com 
 | 2026-10-24 | Dois motivos escolhidos: perdeu o marido para a igreja, e abandono com resposta vazia depois da perda | Uma ferida só, contrasta com a presença da família nova (graça contra lei) |
 | 2026-10-29 | Crença errada confirmada: "Eu só valho pelo que faço pelos outros" | Decisão do autor; sem a segunda parte |
 | 2026-10-29 | Novo "tudo perdido": ela tenta pagar, a família recusa e lhe dá o aniversário, e ela se retira sozinha. O ovo de Páscoa foi movido para a noite escura | Decisão do autor; o padrão do menino ferido e afastado foi descartado |
+| 2026-10-29 | Motivo da irmã: ama a Deus e a ciência, e acusa o irmão por zelo com o testemunho da família, por ensinamento da mãe (que escândalos e maus testemunhos afastam as pessoas de Deus). Descartados o ciúme e o padrão "filha responsável" | Decisão do autor |
+| 2026-10-29 | A irmã vira aliada em três momentos: ouve a confissão do velório (a mãe: "Então ajude"), chega à casa da rabugenta na noite escura (por enquanto) e acompanha a primeira oração | Decisão do autor; ajuda a rabugenta a encontrar um rumo, sem conflito com a família |
+| 2026-10-29 | Câmera do pai: filma a rua e pegou o menino sujando o muro; nenhuma aponta para a casa da rabugenta | Decisão do autor; tira do cartão 25 a câmera apontada para a vizinha |
 
 ## Arquivos
 
