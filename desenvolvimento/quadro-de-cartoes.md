@@ -70,10 +70,10 @@ Uma ficha por cena, montada sobre o `beat-sheet.md`. Sem nomes: os personagens s
 | 37 | 41 | Casa da rabugenta | Ela decide agir: defender o menino | Passividade → decisão (+) | Ela quer proteger. A crença errada a segura | Entrada no Ato 3 |
 | 38 | 42 | Casa da avó | A rabugenta e a avó. A avó conta a história do neto: pai preso, mãe drogada. A rabugenta entende | Rancor → compreensão (+) | A avó defende o neto. A rabugenta quer justiça | Final |
 | 39 | 44 | Rua e portão | A rabugenta confronta o vilãozinho. Ele a ataca (o muro, o portão). Ela tem a chance de puni-lo | Confronto → risco (-) | Ele quer vencê-la. Ela quer puni-lo, mas hesita | Final (clímax) |
-| 40 | 45 | Mesmo lugar | **Ela escolhe dar-lhe graça**, o oposto de punir. O menino ao lado. A crença errada cai | Castigo → graça (+) | O vilãozinho espera punição. Ela dá o oposto | Final |
+| 40 | 45 | Mesmo lugar | **Ela escolhe dar-lhe graça**, o oposto de punir. O menino ao lado. A crença errada cai. **Nota:** ela não sabe que o menino já perdoou (ele decidiu sozinho, no quarto, sem falar com ela). A escolha dela vem do que entendeu do cordeiro, não de imitar o exemplo dele | Castigo → graça (+) | O vilãozinho espera punição. Ela dá o oposto | Final |
 | 41 | 46 | Portão da rabugenta | O pai a procura e pede perdão pela humilhação. Ela o aceita no portão | Mágoa → reconciliação (+) | O pai quer reparar. Ela quer resistir, mas cede | Final |
 | 42 | 47 | Escolinha | O vilãozinho no treino, por escolha agora. A bola volta. O treinador planta, os vizinhos colhem | Obrigação → escolha (+) | O treinador o recebe. Ele ainda desconfia | Final |
-| 43 | 48 | Célula ou casa da rabugenta | Ela ora, sem sermão, com a irmã ao lado (acompanha, não conduz): "Se você existe, fica." A conversão vem pela ação, não por milagre | Indiferença → entrega (+) | Ela quer resistir. A graça recebida a vence | Final |
+| 43 | 48 | Casa da rabugenta, noite | O quarto do pai, fechado o filme inteiro, está aberto. Ela ora, sem sermão, com a irmã ao lado (acompanha, não conduz): "Se você existe, fica." A conversão vem pela ação, não por milagre | Indiferença → entrega (+) | Ela quer resistir. A graça recebida a vence | Final |
 | 44 | 50 | Casa da rabugenta, dia | O portão aberto, o pet ao lado, a música dos vizinhos alta. Ela: "Pode deixar tocando." | Fechada → aberta (+) | Sem conflito: imagem de fechamento | Imagem final |
 
 ## Conferências
@@ -87,6 +87,4 @@ Uma ficha por cena, montada sobre o `beat-sheet.md`. Sem nomes: os personagens s
 
 ## Pontos a decidir
 
-1. O cartão 36 (menino perdoa) e o 40 (rabugenta dá graça): o perdão do menino acontece antes ou depois? Aqui o menino perdoa primeiro, e ela o segue.
-2. O cartão 43: onde ela ora? Na célula (cena pública) ou em casa (cena íntima)? O padrão deixa aberto.
-3. A irmã agora tem momentos nos cartões 19, 23, 25, 34 e 43. O cartão 34 é "por enquanto": se a irmã precisar de uma cena a mais no Ato 2, o cartão 26 (célula) pode servir.
+1. A irmã agora tem momentos nos cartões 19, 23, 25, 34 e 43. O cartão 34 é "por enquanto": se a irmã precisar de uma cena a mais no Ato 2, o cartão 26 (célula) pode servir.

@@ -130,7 +130,7 @@ Nota sobre o material: os depoimentos mostram o ódio vindo de contato ruim com 
 - **Quando ela vira aliada (decisão do autor, 2026-10-29):** deixa de vigiar o irmão e passa a ajudar a rabugenta a encontrar um rumo, fiel ao que a família ensina. Não é conflito com a família. O custo é interno: abrir mão da rigidez e da pressa de julgar.
   1. **Cartão 23 (página 24):** ouve a confissão do velório. No cartão 25, a mãe lhe diz "Então ajude".
   2. **Cartão 34 (página 38), por enquanto:** na noite escura, chega à casa da rabugenta sem ser chamada, faz uma boa pergunta e fica, sem frase pronta.
-  3. **Cartão 43 (página 48):** acompanha a primeira oração da rabugenta, sem conduzir.
+  3. **Cartão 43 (página 48):** acompanha a primeira oração da rabugenta, sem conduzir. A oração é em casa, de noite, com o quarto do pai aberto (decisão do autor: fecha o objeto guardado o filme inteiro, e a irmã é a única testemunha).
 - **Câmera do pai (decisão do autor):** A câmera do pai filma a rua, e foi ela que pegou o menino sujando o muro. Nenhuma câmera aponta para a casa da rabugenta.
 
 **A irmã e a imagem de "crente ignorante" (decisão do autor):**
@@ -326,6 +326,8 @@ Nota sobre o material: os depoimentos mostram o ódio vindo de contato ruim com 
 | 2026-10-29 | Motivo da irmã: ama a Deus e a ciência, e acusa o irmão por zelo com o testemunho da família, por ensinamento da mãe (que escândalos e maus testemunhos afastam as pessoas de Deus). Descartados o ciúme e o padrão "filha responsável" | Decisão do autor |
 | 2026-10-29 | A irmã vira aliada em três momentos: ouve a confissão do velório (a mãe: "Então ajude"), chega à casa da rabugenta na noite escura (por enquanto) e acompanha a primeira oração | Decisão do autor; ajuda a rabugenta a encontrar um rumo, sem conflito com a família |
 | 2026-10-29 | Câmera do pai: filma a rua e pegou o menino sujando o muro; nenhuma aponta para a casa da rabugenta | Decisão do autor; tira do cartão 25 a câmera apontada para a vizinha |
+| 2026-10-29 | Primeira oração da rabugenta: em casa, de noite, com o quarto do pai aberto e a irmã ao lado | Decisão do autor; descartadas a célula, o portão e a cena cheia com o menino e o pet |
+| 2026-10-29 | Ordem do perdão: o menino perdoa antes (cartão 36) e ela depois (cartão 40), mas ela não sabe do perdão dele; a escolha vem do que entendeu do cordeiro | Decisão do autor; a cadeia de graça começa nela (portão, Ato 1) e passa pelo menino |
 
 ## Arquivos
 

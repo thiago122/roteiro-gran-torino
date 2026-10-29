@@ -34,7 +34,7 @@ Rascunho do mapa de 50 páginas (uma página por minuto), montado com o que est�
 
 **A irmã, o motivo real (decisão do autor, 2026-10-29):** ela ama a Deus e a ciência, e vê a ciência confirmando a Bíblia aos poucos. Aprendeu com a mãe que escândalos e maus testemunhos afastam as pessoas de Deus. Por isso acusa o irmão: não é ciúme nem inveja, é preocupação com o testemunho da família diante dos vizinhos. A mãe ensinou o princípio com medida; a irmã, aos 15 anos, o aplica com rigidez. Ela vai à casa da rabugenta contra a vontade e ali encontra alguém que faz perguntas sem escândalo.
 
-**A irmã vira aliada (decisão do autor, 2026-10-29):** deixa de vigiar o irmão e passa a ajudar a rabugenta a encontrar um rumo, fiel ao que a família ensina. Três momentos: ouve a confissão do velório e a mãe diz "Então ajude" (cartões 23 e 25); chega à casa dela na noite escura, sem ser chamada (cartão 34, por enquanto); acompanha a primeira oração (cartão 43).
+**A irmã vira aliada (decisão do autor, 2026-10-29):** deixa de vigiar o irmão e passa a ajudar a rabugenta a encontrar um rumo, fiel ao que a família ensina. Três momentos: ouve a confissão do velório e a mãe diz "Então ajude" (cartões 23 e 25); chega à casa dela na noite escura, sem ser chamada (cartão 34, por enquanto); acompanha a primeira oração, em casa, de noite (cartão 43).
 
 **A câmera do pai (decisão do autor):** A câmera do pai filma a rua, e foi ela que pegou o menino sujando o muro. Nenhuma câmera aponta para a casa da rabugenta.
 
@@ -81,7 +81,7 @@ Rascunho do mapa de 50 páginas (uma página por minuto), montado com o que est�
 | 11 | Tudo perdido | 36 | Ela não sabe receber o aniversário: não explode nem expulsa ninguém, apenas se retira e fecha o portão. A família fica do lado de fora. Sopro de morte: o pet, deitado à porta esperando o menino que não vem, e ela vendo nele o próprio vazio **(a confirmar)** |
 | 12 | Noite escura da alma | 36 a 41 | Sozinha com as coisas do pai. A pergunta "por quê?" volta. A irmã chega sem ser chamada, faz uma boa pergunta e fica, sem dar frase pronta. No domingo de Páscoa, ela leva um ovo ao menino, o único gesto que sabe fazer (dar, não receber). Ele aceita o doce e conta o cordeiro; ela: "E quem pagou por ele?" O vilãozinho e os meninos ferem o menino, e o menino perdoa o vilãozinho |
 | 13 | Entrada no Ato 3 | 41 | Ela decide agir sozinha: defender o menino do vilãozinho e dos outros |
-| 14 | Final | 41 a 48 | O confronto com o vilãozinho, os meninos e a avó. Ela dá a ele a graça que nunca recebeu. A conversão vem desta ação, não de um milagre. O pai pede perdão a ela, ou a aceita no portão. O vilãozinho, que já treinava, passa a ir à escolinha e à célula do treinador por escolha A irmã acompanha a primeira oração dela, sem conduzir |
+| 14 | Final | 41 a 48 | O confronto com o vilãozinho, os meninos e a avó. Ela dá a ele a graça que nunca recebeu. A conversão vem desta ação, não de um milagre. O pai pede perdão a ela, ou a aceita no portão. O vilãozinho, que já treinava, passa a ir à escolinha e à célula do treinador por escolha A irmã acompanha a primeira oração dela, sem conduzir, em casa, de noite, com o quarto do pai aberto |
 | 15 | Imagem final | 50 | O oposto da abertura. A música alta, e ela diz: "Pode deixar tocando." O vilãozinho joga bola no treino do treinador, agora por escolha (eco da bola) |
 
 ## Pontos a conferir
