@@ -1,0 +1,862 @@
+[
+  {
+    "nome": "Ato 1",
+    "ini": 1,
+    "fim": 16,
+    "cenas": [
+      {
+        "n": 1,
+        "pag": 1,
+        "int_ext": "INT",
+        "local": "Casa da rabugenta",
+        "hora": "manhã",
+        "detalhe": null,
+        "elenco": [
+          "Rabugenta",
+          "Pet"
+        ],
+        "acontece": "Rotina em silêncio: jardim, muro branco, pet que espera o pai dela. Ela o alimenta com rispidez",
+        "valor": "Paz fechada (+), mas só",
+        "conflito": "Ela quer ficar em paz. Nada a atrapalha ainda",
+        "beat": "Imagem de abertura",
+        "score": 1
+      },
+      {
+        "n": 2,
+        "pag": 2,
+        "int_ext": "EXT",
+        "local": "Calçada",
+        "hora": "dia",
+        "detalhe": null,
+        "elenco": [
+          "Avó",
+          "Rabugenta"
+        ],
+        "acontece": "A avó vem devolver a furadeira que pegou emprestada do pai dela e diz \"Gente é pra isso. Até a que a gente não gosta.\" A rabugenta fica sem jeito. Chega o caminhão de mudança na casa ao lado, e a avó, fofoqueira, pergunta quem são, de onde vêm, se têm filhos. A rabugenta a corta: \"Não quero saber da vida de ninguém, e a senhora devia fazer o mesmo.\"",
+        "valor": "Isolamento → pressão leve (-)",
+        "conflito": "A avó quer abri-la e saber da vida dos outros. Ela resiste",
+        "beat": "Tema",
+        "score": -1
+      },
+      {
+        "n": 3,
+        "pag": 3,
+        "int_ext": "EXT",
+        "local": "Rua",
+        "hora": "dia",
+        "detalhe": null,
+        "elenco": [
+          "Rabugenta",
+          "Pai",
+          "Treinador",
+          "Mãe",
+          "Irmã",
+          "Menino",
+          "Meninos da rua"
+        ],
+        "acontece": "Caminhão de mudança. O pai e o treinador, amigo dele, descarregam os móveis, a mãe olha a vizinhança, a irmã contrariada com o celular, o menino olha os meninos jogando bola. O treinador repara nele e diz ao pai: \"Leva ele lá, é na rua de baixo.\" O pai: \"Depois que a gente se ajeitar.\" A rabugenta observa tudo do jardim e ouve os dois se chamarem de \"irmão\", sem dizer nada",
+        "valor": "Calma → chegada (+)",
+        "conflito": "A família quer se estabelecer",
+        "beat": "Apresentação",
+        "score": 1
+      },
+      {
+        "n": 4,
+        "pag": 4,
+        "int_ext": "INT",
+        "local": "Casa da família",
+        "hora": "tarde",
+        "detalhe": null,
+        "elenco": [
+          "Menino",
+          "Pai",
+          "Mãe",
+          "Irmã"
+        ],
+        "acontece": "Cada um aparece com um gesto de apego: o menino ajuda com caixa, o pai, depois de descarregar, agradece a Deus pela casa, a irmã protege o irmão de leve. A mãe: \"Quando você vai fazer aquilo que eu te pedi?\" O pai: \"O que você me pediu?\" A mãe: \"Já esqueceu?\" O pai: \"Ah, sim, depois eu instalo.\"",
+        "valor": "Estranheza → vínculo (+)",
+        "conflito": "O pai quer segurança. A irmã não quer estar ali",
+        "beat": "Apresentação",
+        "score": 1
+      },
+      {
+        "n": 5,
+        "pag": 5,
+        "int_ext": "EXT",
+        "local": "Rua",
+        "hora": "tarde",
+        "detalhe": null,
+        "elenco": [
+          "Meninos da rua",
+          "Vilãozinho",
+          "Menino"
+        ],
+        "acontece": "Os meninos jogam bola. O vilãozinho comanda. O menino olha de longe. Ao fundo, numa escada, o pai enfim prende o que a mãe pediu no alto da fachada; não se vê o que é",
+        "valor": "Vontade → distância (-)",
+        "conflito": "O menino quer pertencer",
+        "beat": "Apresentação",
+        "score": -1
+      },
+      {
+        "n": 6,
+        "pag": 6,
+        "int_ext": "INT",
+        "local": "Casa da rabugenta",
+        "hora": "tarde",
+        "detalhe": "volta à casa da família",
+        "elenco": [
+          "Rabugenta",
+          "Irmã",
+          "Mãe"
+        ],
+        "acontece": "A irmã liga a música gospel alta (a canção que volta no cartão 46, com a mesma letra). Ela confirma o que já tinha ouvido na chegada. \"Pelo amor de Deus, baixem essa música!\", sem fé, e resmunga \"crentes\" antes de bater a porta ou a janela. A cena volta à casa da família: a mãe reclama com a irmã do volume e desliga a música.",
+        "valor": "Paz → invasão (-)",
+        "conflito": "Ela quer silêncio. A música a invade",
+        "beat": "Evento que muda tudo",
+        "score": -1
+      },
+      {
+        "n": 7,
+        "pag": 8,
+        "int_ext": "EXT",
+        "local": "Rua",
+        "hora": "tarde",
+        "detalhe": null,
+        "elenco": [
+          "Menino",
+          "Vilãozinho",
+          "Meninos da rua"
+        ],
+        "acontece": "O menino pede para jogar. O vilãozinho o testa e o deixa entrar. Gritaria e palavrões",
+        "valor": "Esperança → aceitação condicional (+/-)",
+        "conflito": "O menino quer entrar. O vilãozinho quer testá-lo",
+        "beat": "Debate",
+        "score": -0.5
+      },
+      {
+        "n": 8,
+        "pag": 9,
+        "int_ext": "EXT",
+        "local": "Portão da rabugenta",
+        "hora": "tarde",
+        "detalhe": null,
+        "elenco": [
+          "Rabugenta",
+          "Menino",
+          "Vilãozinho",
+          "Meninos da rua"
+        ],
+        "acontece": "A bola bate no portão e cai no quintal dela, passando perto de um vaso com a flor de que ela cuida: ela se assusta, com medo de que quebre. A rabugenta sai e só dá bronca: \"Se cair aqui de novo, vou acabar com a brincadeira de vocês.\" Devolve a bola",
+        "valor": "Incômodo → aviso (+/-)",
+        "conflito": "Ela quer silêncio. Os meninos querem a bola",
+        "beat": "Debate",
+        "score": 0
+      },
+      {
+        "n": 9,
+        "pag": 9,
+        "int_ext": "EXT",
+        "local": "Rua e portão da rabugenta",
+        "hora": "tarde",
+        "detalhe": null,
+        "elenco": [
+          "Rabugenta",
+          "Menino",
+          "Vilãozinho",
+          "Meninos da rua"
+        ],
+        "acontece": "Mais tarde o menino chuta a bola de novo e ela fica presa no telhado (ou na árvore) da rabugenta, onde bastaria uma vara para tirar. Os meninos pedem para entrar no quintal. Ela não deixa: \"Eu avisei.\"",
+        "valor": "Aviso → recusa (+)",
+        "conflito": "Ela cumpre o aviso. Os meninos querem a bola de volta",
+        "beat": "Debate",
+        "score": 1
+      },
+      {
+        "n": 10,
+        "pag": 10,
+        "int_ext": "INT",
+        "local": "Casa da avó",
+        "hora": "tarde",
+        "detalhe": null,
+        "elenco": [
+          "Avó",
+          "Vilãozinho"
+        ],
+        "acontece": "A avó cobra do neto a bola da escolinha. O vilãozinho desconversa e mente: diz que emprestou a bola a um amigo da escola",
+        "valor": "Cobrança → mentira (-)",
+        "conflito": "A avó quer a verdade. O vilãozinho a esconde",
+        "beat": "Debate",
+        "score": 0
+      },
+      {
+        "n": 11,
+        "pag": 11,
+        "int_ext": "EXT",
+        "local": "Rua",
+        "hora": "entardecer",
+        "detalhe": null,
+        "elenco": [
+          "Meninos da rua",
+          "Vilãozinho",
+          "Menino"
+        ],
+        "acontece": "Os meninos culpam o menino pela bola presa: se quiser continuar jogando com eles, vai ter que buscá-la à noite, no quintal dela",
+        "valor": "Pertencer → pressão (-)",
+        "conflito": "O menino quer pertencer. A consciência o atrapalha",
+        "beat": "Debate",
+        "score": -1
+      },
+      {
+        "n": 12,
+        "pag": 12,
+        "int_ext": "INT",
+        "local": "Casa do menino",
+        "hora": "noite",
+        "detalhe": null,
+        "elenco": [
+          "Menino"
+        ],
+        "acontece": "Ele pensa no que pode acontecer. Sai de casa escondido",
+        "valor": "Dúvida → decisão (-)",
+        "conflito": "O menino quer pertencer. O medo o atrapalha",
+        "beat": "Debate",
+        "score": -1
+      },
+      {
+        "n": 13,
+        "pag": 13,
+        "int_ext": "EXT",
+        "local": "Quintal da rabugenta",
+        "hora": "noite",
+        "detalhe": null,
+        "elenco": [
+          "Menino",
+          "Rabugenta",
+          "Irmã"
+        ],
+        "acontece": "Ele entra no quintal à noite, pega uma escada da casa dela e tira a bola do telhado, e faz barulho. Ela abre a porta, acende a luz e o vê; por um instante os dois se olham. Ele se assusta, corre e quebra o vaso da flor dela. Foge com a bola. **Ela não faz nada contra ele**: fica parada na porta, olha os cacos e, quando ele some, sai, se abaixa e recolhe os pedaços, tentando segurar a flor caída. Guarda os cacos. Da janela do quarto, a irmã vê o menino pulando o muro de volta",
+        "valor": "Invasão → silêncio dela (+)",
+        "conflito": "Ele quer a bola e pertencer. Ela o pega e o deixa ir",
+        "beat": "Debate (primeira graça)",
+        "score": 1
+      },
+      {
+        "n": 14,
+        "pag": 14,
+        "int_ext": "EXT",
+        "local": "Rua (padaria)",
+        "hora": "manhã",
+        "detalhe": "comprar pão",
+        "elenco": [
+          "Menino",
+          "Rabugenta"
+        ],
+        "acontece": "A mãe manda o menino comprar pão. Na rua, ele cruza com a rabugenta, de longe. Ela o vê, ele a vê, e nenhum dos dois diz nada: só os olhares. O dele é de medo, o dela não o entrega. Ele desvia o rosto e segue",
+        "valor": "Medo → dúvida (-/+)",
+        "conflito": "Ele teme ser denunciado. Ela o vê e não faz nada",
+        "beat": "Debate",
+        "score": 0
+      },
+      {
+        "n": 15,
+        "pag": 14,
+        "int_ext": "INT",
+        "local": "Casa da família",
+        "hora": "noite",
+        "detalhe": "jantar",
+        "elenco": [
+          "Pai",
+          "Mãe",
+          "Irmã",
+          "Menino"
+        ],
+        "acontece": "A irmã pressiona o menino: \"Eu vi você.\" Ele: \"Você não pode provar.\" No jantar a mãe agradece ao pai por ter lembrado de instalar a câmera, e os dois irmãos se olham (nenhum sabia): o olhar da irmã diz \"agora eu tenho a prova\". Ela não conta nada. Depois o menino tenta apagar o vídeo no celular do pai e é pego em flagrante",
+        "valor": "Esperança → exposição (-)",
+        "conflito": "O menino quer esconder. A irmã sabe e cala. O pai quer saber",
+        "beat": "Debate",
+        "score": -1
+      },
+      {
+        "n": 16,
+        "pag": 15,
+        "int_ext": "INT",
+        "local": "Casa da família",
+        "hora": "noite",
+        "detalhe": "sala",
+        "elenco": [
+          "Pai",
+          "Mãe",
+          "Menino"
+        ],
+        "acontece": "O pai pressiona o menino, que confessa: entrou no quintal da vizinha para pegar a bola e quebrou um vaso, e que a bola está com ele. O pai e a mãe discutem. O pai conta a história de Davi, tira o cinto só para intimidar, sem intenção de bater. Termina com: \"Seu castigo começa amanhã\"",
+        "valor": "Raiva → decisão (-)",
+        "conflito": "O pai quer corrigir. A mãe quer evitar a ameaça",
+        "beat": "Debate",
+        "score": -1
+      },
+      {
+        "n": 17,
+        "pag": 16,
+        "int_ext": "EXT",
+        "local": "Casa da avó",
+        "hora": "manhã",
+        "detalhe": null,
+        "elenco": [
+          "Pai",
+          "Menino",
+          "Avó",
+          "Vilãozinho"
+        ],
+        "acontece": "O pai faz o menino devolver a bola e pedir desculpas. A avó descobre a mentira do neto e o castiga também",
+        "valor": "Mentira → descoberta (-)",
+        "conflito": "O pai quer reparar. O vilãozinho queria esconder a mentira",
+        "beat": "Debate",
+        "score": 0
+      },
+      {
+        "n": 18,
+        "pag": 16,
+        "int_ext": "EXT",
+        "local": "Portão da rabugenta",
+        "hora": "manhã",
+        "detalhe": null,
+        "elenco": [
+          "Pai",
+          "Menino",
+          "Rabugenta"
+        ],
+        "acontece": "O pai leva o menino e exige desculpas. A rabugenta tenta recusar: \"Não precisa, eu não quero ele aqui.\" O pai insiste e impõe o trabalho. **Ela respira fundo, solta o ar e cede: \"Se vai trabalhar aqui, vai fazer direito. Não quero moleza.\" E completa: \"Eu quero você aqui às sete da manhã.\" O menino reclama: \"É muito cedo.\" E o pai concorda com ela.**",
+        "valor": "Humilhação → acerto (-/+)",
+        "conflito": "O pai quer reparar. Ela quer expulsá-los, mas aceita",
+        "beat": "Entrada no Ato 2",
+        "score": 0.5
+      }
+    ]
+  },
+  {
+    "nome": "Ato 2, primeira metade",
+    "ini": 16,
+    "fim": 25,
+    "cenas": [
+      {
+        "n": 19,
+        "pag": 17,
+        "int_ext": "INT",
+        "local": "Casa da família",
+        "hora": "noite",
+        "detalhe": null,
+        "elenco": [
+          "Mãe",
+          "Pai",
+          "Menino",
+          "Irmã"
+        ],
+        "acontece": "A mãe diz ao pai que foi agressivo. O pai pede desculpas ao filho pela maneira, mas mantém a correção. A irmã acusa o irmão de envergonhar a família e o evangelho (ensinamento da mãe: mau testemunho afasta as pessoas de Deus). A mãe pergunta à irmã se ela sabia. Ela diz que não: \"Eu vi quando vocês se olharam na mesa, eu sei que você sabia.\" A mãe a manda vigiá-lo nas tarefas, até porque não conhecem aquela mulher",
+        "valor": "Clima pesado → reparo (+)",
+        "conflito": "A mãe quer medida. O pai quer firmeza. A irmã quer proteger o testemunho da família",
+        "beat": "História paralela",
+        "score": 1
+      },
+      {
+        "n": 20,
+        "pag": 18,
+        "int_ext": "INT",
+        "local": "Casa da rabugenta",
+        "hora": "tarde",
+        "detalhe": null,
+        "elenco": [
+          "Menino",
+          "Rabugenta",
+          "Pet"
+        ],
+        "acontece": "Primeiro dia de trabalho. Atrito. Ela traz os cacos do vaso que guardou e o manda colar todos. O pet espera o pai dela, e o menino o trata. O quarto do pai, que ela não deixa abrir",
+        "valor": "Ríspida → desconcertada (-/+)",
+        "conflito": "O menino quer cumprir. Ela quer afastá-lo",
+        "beat": "Diversão e jogos",
+        "score": 0.5
+      },
+      {
+        "n": 21,
+        "pag": 19,
+        "int_ext": "EXT",
+        "local": "Jardim da rabugenta",
+        "hora": "tarde",
+        "detalhe": null,
+        "elenco": [
+          "Irmã",
+          "Rabugenta",
+          "Menino",
+          "Pet"
+        ],
+        "acontece": "A irmã (vigia) e a rabugenta conversam enquanto o menino cuida do jardim. O pet quebra o gelo. A rabugenta se surpreende com a inteligência da irmã, que fala de ciência e fé sem fazer aula",
+        "valor": "Desconfiança → curiosidade (+)",
+        "conflito": "A irmã não quer estar ali. A rabugenta não quer gostar",
+        "beat": "Diversão e jogos",
+        "score": 1
+      },
+      {
+        "n": 22,
+        "pag": 20,
+        "int_ext": "INT",
+        "local": "Casa da avó",
+        "hora": "tarde",
+        "detalhe": null,
+        "elenco": [
+          "Avó",
+          "Rabugenta"
+        ],
+        "acontece": "A avó e a rabugenta falam do neto. A avó diz que ele treina com o treinador e continua cruel",
+        "valor": "Amizade → preocupação (-)",
+        "conflito": "A avó quer proteger o neto. A rabugenta quer proteger o muro",
+        "beat": "Diversão e jogos",
+        "score": -1
+      },
+      {
+        "n": 23,
+        "pag": 21,
+        "int_ext": "EXT",
+        "local": "Escolinha",
+        "hora": "tarde",
+        "detalhe": null,
+        "elenco": [
+          "Treinador",
+          "Vilãozinho"
+        ],
+        "acontece": "O treinador sabe como o vilãozinho é na rua e não o expulsa",
+        "valor": "Ameaça de expulsão → permanência (+)",
+        "conflito": "O treinador quer ficar. O vilãozinho testa",
+        "beat": "Diversão e jogos",
+        "score": 1
+      },
+      {
+        "n": 24,
+        "pag": 22,
+        "int_ext": "INT",
+        "local": "Casa da família",
+        "hora": "dia",
+        "detalhe": "almoço",
+        "elenco": [
+          "Rabugenta",
+          "Pai",
+          "Mãe",
+          "Irmã",
+          "Menino"
+        ],
+        "acontece": "O convite. A rabugenta resiste, vai. Observa. \"Não são anormais\"",
+        "valor": "Resistência → curiosidade (+)",
+        "conflito": "A família quer acolher. Ela quer fugir",
+        "beat": "Diversão e jogos",
+        "score": 1
+      },
+      {
+        "n": 25,
+        "pag": 25,
+        "int_ext": "EXT",
+        "local": "Quintal da família",
+        "hora": "entardecer",
+        "detalhe": null,
+        "elenco": [
+          "Rabugenta",
+          "Menino",
+          "Irmã"
+        ],
+        "acontece": "Depois do almoço, ela abre uma fresta ao menino: no velório do pai a igreja a elogiou e foi embora, e ninguém precisou mais dela. A irmã (vigia) ouve de longe",
+        "valor": "Silêncio → confissão (+)",
+        "conflito": "Ela quer se proteger. O menino quer ouvir",
+        "beat": "Meio (falsa vitória)",
+        "score": 1
+      }
+    ]
+  },
+  {
+    "nome": "Ato 2, segunda metade",
+    "ini": 25,
+    "fim": 36,
+    "cenas": [
+      {
+        "n": 26,
+        "pag": 26,
+        "int_ext": "EXT",
+        "local": "Rua",
+        "hora": "tarde",
+        "detalhe": null,
+        "elenco": [
+          "Vilãozinho",
+          "Meninos da rua",
+          "Menino"
+        ],
+        "acontece": "O vilãozinho e os meninos veem o menino \"amigo da velha\" e o chamam de traidor",
+        "valor": "Aceitação → rejeição (-)",
+        "conflito": "O menino quer os dois lados. Eles exigem um",
+        "beat": "Os maus se aproximam",
+        "score": -1
+      },
+      {
+        "n": 27,
+        "pag": 27,
+        "int_ext": "INT",
+        "local": "Casa da família",
+        "hora": "noite",
+        "detalhe": null,
+        "elenco": [
+          "Irmã",
+          "Mãe",
+          "Pai"
+        ],
+        "acontece": "A irmã conta à mãe o que ouviu no quintal. A mãe: \"Então ajude.\" Ao fundo, o pai guarda as ferramentas do quintal",
+        "valor": "Julgamento → cuidado (+)",
+        "conflito": "A irmã quer corrigir. A mãe a ensina a ajudar",
+        "beat": "Os maus se aproximam",
+        "score": 1
+      },
+      {
+        "n": 28,
+        "pag": 28,
+        "int_ext": "INT",
+        "local": "Célula",
+        "hora": "noite",
+        "detalhe": null,
+        "elenco": [
+          "Rabugenta",
+          "Mãe",
+          "Treinador",
+          "Vilãozinho"
+        ],
+        "acontece": "A rabugenta aceita o convite. Reunião informal, sem púlpito nem oferta. O treinador aparece e o vilãozinho está com ele: já treina na escolinha e vem por obrigação, sem estar regenerado. Ninguém a cobra",
+        "valor": "Medo → acolhimento (+)",
+        "conflito": "Ela quer fugir. A mãe a convida a ficar",
+        "beat": "Os maus se aproximam",
+        "score": 1
+      },
+      {
+        "n": 29,
+        "pag": 29,
+        "int_ext": "EXT",
+        "local": "Calçada",
+        "hora": "noite",
+        "detalhe": "saindo da célula",
+        "elenco": [
+          "Rabugenta",
+          "Mãe"
+        ],
+        "acontece": "\"Por que vocês não me deixam em paz?\" A resposta é curta e pessoal",
+        "valor": "Pergunta → resposta (+)",
+        "conflito": "Ela quer entender. A mãe responde sem pregar",
+        "beat": "Os maus se aproximam",
+        "score": 1
+      },
+      {
+        "n": 30,
+        "pag": 30,
+        "int_ext": "EXT",
+        "local": "Muro da rabugenta",
+        "hora": "manhã",
+        "detalhe": null,
+        "elenco": [
+          "Rabugenta",
+          "Menino"
+        ],
+        "acontece": "O muro foi atacado pelo vilãozinho e pelos meninos. O menino sente culpa. Ela e o menino limpam juntos",
+        "valor": "Ataque → união (-/+)",
+        "conflito": "O vilãozinho quer punir. Os dois querem reparar",
+        "beat": "Os maus se aproximam",
+        "score": 0.5
+      },
+      {
+        "n": 31,
+        "pag": 32,
+        "int_ext": "INT",
+        "local": "Casa da avó",
+        "hora": "tarde",
+        "detalhe": null,
+        "elenco": [
+          "Avó",
+          "Vilãozinho",
+          "Rabugenta"
+        ],
+        "acontece": "A avó confronta o neto. A rabugenta fica dividida entre a amiga e o muro",
+        "valor": "Amizade → tensão (-)",
+        "conflito": "A avó ama o neto. A rabugenta quer justiça",
+        "beat": "Os maus se aproximam",
+        "score": -1
+      },
+      {
+        "n": 32,
+        "pag": 33,
+        "int_ext": "INT",
+        "local": "Casa da família",
+        "hora": "tarde",
+        "detalhe": null,
+        "elenco": [
+          "Rabugenta",
+          "Mãe"
+        ],
+        "acontece": "O trabalho do menino termina. A rabugenta leva dinheiro para \"ficar quite\" com a mãe. A mãe recusa, sem sermão e sem se ofender",
+        "valor": "Dívida → recusa (-)",
+        "conflito": "Ela quer pagar. A mãe não aceita pagamento",
+        "beat": "Os maus se aproximam",
+        "score": -1
+      },
+      {
+        "n": 33,
+        "pag": 35,
+        "int_ext": "EXT",
+        "local": "Jardim da rabugenta",
+        "hora": "noite",
+        "detalhe": null,
+        "elenco": [
+          "Rabugenta",
+          "Pai",
+          "Mãe",
+          "Irmã",
+          "Menino"
+        ],
+        "acontece": "Aniversário-surpresa: a avó contou a data e a família chega ao portão com um bolo, sem pedir nada. Ela não tem como pagar",
+        "valor": "Controle → exposição (-)",
+        "conflito": "A família quer dar. Ela só sabe devolver",
+        "beat": "Os maus se aproximam",
+        "score": -1
+      }
+    ]
+  },
+  {
+    "nome": "Tudo perdido e noite escura",
+    "ini": 36,
+    "fim": 40,
+    "cenas": [
+      {
+        "n": 34,
+        "pag": 36,
+        "int_ext": "EXT",
+        "local": "Portão da rabugenta",
+        "hora": "contínuo",
+        "detalhe": null,
+        "elenco": [
+          "Rabugenta",
+          "Pai",
+          "Mãe",
+          "Irmã",
+          "Menino"
+        ],
+        "acontece": "Ela não agradece nem expulsa ninguém: entra em casa, fecha o portão e fica em silêncio. A família fica do lado de fora",
+        "valor": "Convívio → retirada (-)",
+        "conflito": "Ela quer sair da dívida. A família quer ficar",
+        "beat": "Tudo perdido",
+        "score": -1
+      },
+      {
+        "n": 35,
+        "pag": 37,
+        "int_ext": "INT",
+        "local": "Casa da rabugenta",
+        "hora": "noite",
+        "detalhe": null,
+        "elenco": [
+          "Rabugenta",
+          "Pet"
+        ],
+        "acontece": "O pet deitado à porta esperando o menino que não vem. Ela sozinha, diante do quarto do pai. Reconhece o próprio vazio",
+        "valor": "Companhia → solidão (-)",
+        "conflito": "Ela quer não sentir. O pet a lembra",
+        "beat": "Sopro de morte",
+        "score": -1
+      },
+      {
+        "n": 36,
+        "pag": 38,
+        "int_ext": "INT",
+        "local": "Casa da rabugenta",
+        "hora": "noite",
+        "detalhe": null,
+        "elenco": [
+          "Rabugenta",
+          "Irmã"
+        ],
+        "acontece": "A pergunta \"por quê?\" volta. A irmã chega sem ser chamada, faz uma boa pergunta e fica, sem dar frase pronta",
+        "valor": "Dor → presença (+)",
+        "conflito": "Ela quer voltar a ser útil. A irmã só fica, sem nada a cobrar",
+        "beat": "Noite escura",
+        "score": 1
+      },
+      {
+        "n": 37,
+        "pag": 39,
+        "int_ext": "EXT",
+        "local": "Portão da família",
+        "hora": "dia",
+        "detalhe": "domingo de Páscoa",
+        "elenco": [
+          "Rabugenta",
+          "Menino"
+        ],
+        "acontece": "Ela leva um ovo ao menino, o único gesto que sabe fazer. Ele aceita o doce e conta o cordeiro. Ela: \"E quem pagou por ele?\"",
+        "valor": "Distância → abertura (+)",
+        "conflito": "Ela quer entender. O menino quer ser honesto sem ensinar",
+        "beat": "Ovo de Páscoa",
+        "score": 1
+      }
+    ]
+  },
+  {
+    "nome": "Ato 3",
+    "ini": 40,
+    "fim": 50,
+    "cenas": [
+      {
+        "n": 38,
+        "pag": 40,
+        "int_ext": "EXT",
+        "local": "Rua e quarto do menino",
+        "hora": "tarde",
+        "detalhe": null,
+        "elenco": [
+          "Vilãozinho",
+          "Meninos da rua",
+          "Menino"
+        ],
+        "acontece": "O vilãozinho e os meninos cercam o menino e o ferem. A câmera do pai, que filma a rua, pega a cena. No quarto, ele decide perdoar o vilãozinho",
+        "valor": "Ferida → perdão (-/+)",
+        "conflito": "O menino quer vingança. A graça recebida o impede",
+        "beat": "Entrada no Ato 3",
+        "score": 0.5
+      },
+      {
+        "n": 39,
+        "pag": 41,
+        "int_ext": "INT",
+        "local": "Casa da rabugenta",
+        "hora": "noite",
+        "detalhe": null,
+        "elenco": [
+          "Rabugenta",
+          "Irmã"
+        ],
+        "acontece": "A irmã chega e conta o que a câmera do pai filmou: o ataque ao menino. Ela decide agir: defender o menino",
+        "valor": "Passividade → decisão (+)",
+        "conflito": "Ela quer proteger. A crença errada a segura",
+        "beat": "Entrada no Ato 3",
+        "score": 1
+      },
+      {
+        "n": 40,
+        "pag": 42,
+        "int_ext": "INT",
+        "local": "Casa da avó",
+        "hora": "dia",
+        "detalhe": null,
+        "elenco": [
+          "Rabugenta",
+          "Avó"
+        ],
+        "acontece": "A rabugenta e a avó. A avó conta a história do neto: pai preso, mãe drogada. A rabugenta entende",
+        "valor": "Rancor → compreensão (+)",
+        "conflito": "A avó defende o neto. A rabugenta quer justiça",
+        "beat": "Final",
+        "score": 1
+      },
+      {
+        "n": 41,
+        "pag": 43,
+        "int_ext": "EXT",
+        "local": "Rua e portão da rabugenta",
+        "hora": "tarde",
+        "detalhe": null,
+        "elenco": [
+          "Rabugenta",
+          "Vilãozinho"
+        ],
+        "acontece": "A rabugenta confronta o vilãozinho. Ele a ataca (o muro, o portão). Ela tem a chance de puni-lo",
+        "valor": "Confronto → risco (-)",
+        "conflito": "Ele quer vencê-la. Ela quer puni-lo, mas hesita",
+        "beat": "Final (clímax)",
+        "score": -1
+      },
+      {
+        "n": 42,
+        "pag": 44,
+        "int_ext": "EXT",
+        "local": "Rua e portão da rabugenta",
+        "hora": "contínuo",
+        "detalhe": "mesmo lugar do cartão 41",
+        "elenco": [
+          "Rabugenta",
+          "Vilãozinho",
+          "Menino"
+        ],
+        "acontece": "**Ela escolhe dar-lhe graça**, o oposto de punir. O menino ao lado. A crença errada cai. **Nota:** ela não sabe que o menino já perdoou (ele decidiu sozinho, no quarto, sem falar com ela). A escolha dela vem do que entendeu do cordeiro, não de imitar o exemplo dele",
+        "valor": "Castigo → graça (+)",
+        "conflito": "O vilãozinho espera punição. Ela dá o oposto",
+        "beat": "Final",
+        "score": 1
+      },
+      {
+        "n": 43,
+        "pag": 45,
+        "int_ext": "EXT",
+        "local": "Portão da rabugenta",
+        "hora": "entardecer",
+        "detalhe": null,
+        "elenco": [
+          "Pai",
+          "Rabugenta"
+        ],
+        "acontece": "O pai chega ao portão já sabendo do ataque ao menino, porque a câmera pegou a cena, e é isso que o leva até lá. Deixa o celular de lado e a procura: não pede perdão pelo portão, só agradece por ela ter defendido o menino. Ela aceita o agradecimento no portão",
+        "valor": "Mágoa → reconciliação (+)",
+        "conflito": "O pai quer reparar. Ela quer resistir, mas cede",
+        "beat": "Final",
+        "score": 1
+      },
+      {
+        "n": 44,
+        "pag": 47,
+        "int_ext": "EXT",
+        "local": "Escolinha",
+        "hora": "tarde",
+        "detalhe": null,
+        "elenco": [
+          "Vilãozinho",
+          "Treinador"
+        ],
+        "acontece": "O vilãozinho no treino, por escolha agora. A bola volta. O treinador planta, os vizinhos colhem",
+        "valor": "Obrigação → escolha (+)",
+        "conflito": "O treinador o recebe. Ele ainda desconfia",
+        "beat": "Final",
+        "score": 1
+      },
+      {
+        "n": 45,
+        "pag": 49,
+        "int_ext": "INT",
+        "local": "Casa da rabugenta",
+        "hora": "noite",
+        "detalhe": null,
+        "elenco": [
+          "Rabugenta",
+          "Irmã"
+        ],
+        "acontece": "O quarto do pai, fechado o filme inteiro, está aberto. Ela ora, sem sermão, com a irmã ao lado (acompanha, não conduz): \"Se você existe, fica.\" A conversão vem pela ação, não por milagre",
+        "valor": "Indiferença → entrega (+)",
+        "conflito": "Ela quer resistir. A graça recebida a vence",
+        "beat": "Final",
+        "score": 1
+      },
+      {
+        "n": 46,
+        "pag": 50,
+        "int_ext": "EXT",
+        "local": "Casa da rabugenta",
+        "hora": "dia",
+        "detalhe": null,
+        "elenco": [
+          "Rabugenta",
+          "Pet"
+        ],
+        "acontece": "O portão aberto, o pet ao lado, a música dos vizinhos alta, a mesma canção e a mesma letra da abertura (cartão 6). Ela louva a Deus com a música. Fala opcional: \"Pode deixar tocando.\"",
+        "valor": "Fechada → aberta (+)",
+        "conflito": "Sem conflito: imagem de fechamento",
+        "beat": "Imagem final",
+        "score": 1
+      }
+    ]
+  }
+]
