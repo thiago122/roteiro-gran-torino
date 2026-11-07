@@ -71,6 +71,7 @@ main{max-width:1100px;margin:0 auto;padding:8px 16px 80px}
 .painel{background:var(--card);border:1px solid var(--line);border-radius:10px;padding:12px 16px;margin:12px 0}
 .painel h2{margin:0 0 8px;font-size:1rem}
 .painel ul{margin:6px 0;padding-left:20px}.painel li{margin-bottom:5px}
+.painel li.grupo{list-style:none;margin:0 0 14px -20px}.painel li.grupo>b{display:block;margin-bottom:4px}.painel li.grupo>ul{margin:0;padding-left:22px}
 .painel p{margin:6px 0}
 .crit{list-style:none;padding:0!important}
 .crit li{display:grid;grid-template-columns:22px 1fr;gap:6px}
@@ -178,7 +179,7 @@ function visao(){
 
 function bloco(b){
   if(b.tipo==='texto')return `<section class="painel"><h2>${esc(b.titulo)}</h2><p>${esc(b.texto)}</p></section>`;
-  if(b.tipo==='lista')return `<section class="painel"><h2>${esc(b.titulo)}</h2>${b.intro?`<p>${esc(b.intro)}</p>`:''}<ul>${b.itens.map(i=>`<li>${esc(i)}</li>`).join('')}</ul></section>`;
+  if(b.tipo==='lista')return `<section class="painel"><h2>${esc(b.titulo)}</h2>${b.intro?`<p>${esc(b.intro)}</p>`:''}<ul>${b.itens.map(i=>typeof i==='string'?`<li>${esc(i)}</li>`:`<li class="grupo"><b>${esc(i.t)}</b><ul>${i.sub.map(s=>`<li>${esc(s)}</li>`).join('')}</ul></li>`).join('')}</ul></section>`;
   if(b.tipo==='tabela')return `<section class="painel"><h2>${esc(b.titulo)}</h2><div class="tw"><table class="t"><thead><tr>${b.colunas.map(c=>`<th>${esc(c)}</th>`).join('')}</tr></thead><tbody>${b.linhas.map(l=>`<tr>${l.map(c=>`<td>${esc(c)}</td>`).join('')}</tr>`).join('')}</tbody></table></div></section>`;
   return '';
 }
